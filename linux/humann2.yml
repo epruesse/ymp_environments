@@ -57,8 +57,6 @@ dependencies:
 - libxcb=1.13=0
 - libxml2=2.9.8=0
 - matplotlib=2.1.1=py27_0
-- mkl_fft=1.0.1=py27_1
-- mkl_random=1.0.1=py27_0
 - msgpack-python=0.5.6=py27_0
 - ncurses=5.9=10
 - olefile=0.45.1=py27_0
@@ -69,7 +67,7 @@ dependencies:
 - pillow=4.2.1=py27_0
 - pip=9.0.3=py27_0
 - pycparser=2.18=py27_0
-- pyopenssl=17.4.0=py27_0
+- pyopenssl=17.5.0=py27_1
 - pyparsing=2.2.0=py27_0
 - pyqt=5.6.0=py27_4
 - pysocks=1.6.8=py27_1
@@ -94,17 +92,15 @@ dependencies:
 - xorg-libxdmcp=1.1.2=3
 - xz=5.2.3=0
 - zlib=1.2.11=0
-- intel-openmp=2018.0.0=8
+- intel-openmp=2018.0.0=hc7b2577_8
 - libgcc=7.2.0=h69d50b8_2
 - libgcc-ng=7.2.0=hdf63c60_3
 - libgfortran=3.0.0=1
 - libgfortran-ng=7.2.0=hdf63c60_3
 - libstdcxx-ng=7.2.0=hdf63c60_3
-- mkl=2018.0.2=1
-- numpy=1.14.2=py27hdbf6ddf_1
-- scipy=1.0.1=py27hfc37229_0
+- mkl=2018.0.1=h19d6760_4
+- numpy=1.14.2=py27hdbf6ddf_0
+- scipy=1.0.0=py27hf5f0f52_0
 - pip:
   - backports-abc==0.5
   - backports.functools-lru-cache==1.5
-  - mkl-fft==1.0.0
-  - mkl-random==1.0.1

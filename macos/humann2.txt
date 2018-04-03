@@ -63,7 +63,7 @@ https://conda.anaconda.org/conda-forge/osx-64/perl-5.22.0.1-0.tar.bz2#45fc5fe461
 https://conda.anaconda.org/conda-forge/osx-64/pillow-4.2.1-py27_0.tar.bz2#7c33dc58dd8fb91a73e8e33206ed8cff
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py27_0.tar.bz2#ba4c32eeaecfeb989bef4e2fe01b4485
 https://conda.anaconda.org/conda-forge/osx-64/pycparser-2.18-py27_0.tar.bz2#1d3aa42f541379fe1141583a3eac8f6c
-https://conda.anaconda.org/conda-forge/osx-64/pyopenssl-17.4.0-py27_0.tar.bz2#a6c7b4cffb3895abcac10c2b92c79c83
+https://conda.anaconda.org/conda-forge/osx-64/pyopenssl-17.5.0-py27_1.tar.bz2#ee41ef82b78301cf860e4ce9e272d1e0
 https://conda.anaconda.org/conda-forge/osx-64/pyparsing-2.2.0-py27_0.tar.bz2#0a5dcf0384103535f006215aea3c7add
 https://conda.anaconda.org/bioconda/osx-64/pyqi-0.3.2-py27_0.tar.bz2#6fa7044db7084faf5802b76e89c145a3
 https://conda.anaconda.org/bioconda/osx-64/pysam-0.14.1-py27_htslib1.7_0.tar.bz2#74f7a218f57d61b0392443dee6190ca9

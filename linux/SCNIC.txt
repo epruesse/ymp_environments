@@ -37,7 +37,7 @@ https://conda.anaconda.org/conda-forge/linux-64/hdf5-1.10.1-2.tar.bz2#614a64bab7
 https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-0.tar.bz2#c52602b125d146ad9e68b4d75d2585e5
 https://conda.anaconda.org/conda-forge/linux-64/idna-2.6-py27_1.tar.bz2#65763d66eeddf42f833aae011743d9f8
 https://conda.anaconda.org/conda-forge/linux-64/ipaddress-1.0.18-py27_0.tar.bz2#12561cce3e01d9968d150855528a6db8
-https://conda.anaconda.org/conda-forge/linux-64/ipython-5.5.0-py27_0.tar.bz2#895714dc7ef9d3815e9e7f5dc7085d0d
+https://conda.anaconda.org/conda-forge/linux-64/ipython-5.6.0-py27_0.tar.bz2#c35e6ebc7c68bcb785239f63a502e7c8
 https://conda.anaconda.org/conda-forge/linux-64/ipython_genutils-0.2.0-py27_0.tar.bz2#5e8c18afa86e5f3af13248316e202288
 https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2#f83363b188d5f6fe773ef8b17b801d9e
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.0.1-py27_1.tar.bz2#4982b53e10aa25f6d6afd6bf937b6c26
@@ -70,7 +70,7 @@ https://conda.anaconda.org/conda-forge/linux-64/prompt_toolkit-1.0.15-py27_0.tar
 https://conda.anaconda.org/conda-forge/linux-64/ptyprocess-0.5.2-py27_0.tar.bz2#ca6a1a2eec60ca56f82adcfd30b78b93
 https://conda.anaconda.org/conda-forge/linux-64/pycparser-2.18-py27_0.tar.bz2#15ab6cf224b385d218cefcca6a33875d
 https://conda.anaconda.org/conda-forge/linux-64/pygments-2.2.0-py27_0.tar.bz2#adec4e787eefcd491726ac18d30373cc
-https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.4.0-py27_0.tar.bz2#619f740f1beaf09cd0d70bc257877dc2
+https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.5.0-py27_1.tar.bz2#3731db9ca2242bab61d583d7c01391a3
 https://conda.anaconda.org/conda-forge/linux-64/pyparsing-2.2.0-py27_0.tar.bz2#99e4f6efe55e1b3b568bccbd3027974c
 https://conda.anaconda.org/bioconda/linux-64/pyqi-0.3.2-py27_0.tar.bz2#1b2577777f20643b401cfed86cdad8a6
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.6.0-py27_4.tar.bz2#71ff7956cb14ed47c3b2fda8eda2884c

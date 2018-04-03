@@ -18,7 +18,7 @@ https://conda.anaconda.org/conda-forge/osx-64/readline-7.0-0.tar.bz2#4a2639ba2d3
 https://conda.anaconda.org/bioconda/osx-64/samtools-1.7-2.tar.bz2#ba76a58ba8784f94639ee8363ceed717
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py36_0.tar.bz2#bcc229f60ed9b00bb976833e89fd6fa0
 https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.20.1-2.tar.bz2#3f8b55826eaa6d57a547437079818c7a
-https://conda.anaconda.org/bioconda/osx-64/tbb-4.4_20150728-0.tar.bz2#3e4c008ea9644ace36d6f7e601b2b2e1
+https://conda.anaconda.org/conda-forge/osx-64/tbb-2018_20171205-0.tar.bz2#504d350b6a38fc6a4139af8a69df5fc5
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.7-0.tar.bz2#af0580b8c35229a5d712f81fd45cc5e9
 https://conda.anaconda.org/conda-forge/osx-64/wheel-0.30.0-py36_2.tar.bz2#26e25229cb68d488cc45acb4e451d94a
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.3-0.tar.bz2#aa4147a23e0324d10adc7e3dcb26d919

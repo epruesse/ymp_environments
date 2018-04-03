@@ -45,7 +45,7 @@ dependencies:
 - pip=9.0.3=py35_0
 - pixman=0.34.0=1
 - pycparser=2.18=py35_0
-- pyopenssl=17.4.0=py35_0
+- pyopenssl=17.5.0=py35_1
 - pyparsing=2.2.0=py35_0
 - pyqt=4.11.4=py35_3
 - pysocks=1.6.8=py35_1

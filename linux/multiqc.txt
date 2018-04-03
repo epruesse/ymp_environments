@@ -48,7 +48,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pcre-8.41-1.tar.bz2#efb52c6fc3e1
 https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.3-py35_0.tar.bz2#a0154b3544170900193b078c92a1b501
 https://conda.anaconda.org/conda-forge/linux-64/pixman-0.34.0-1.tar.bz2#b723f8a6c1d0aeec6d5cd5a7cedc5c0b
 https://conda.anaconda.org/conda-forge/linux-64/pycparser-2.18-py35_0.tar.bz2#91c3de22f6d418678062bc43c759da21
-https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.4.0-py35_0.tar.bz2#e563ecaf24350a70f9ebbe20a9636ab0
+https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.5.0-py35_1.tar.bz2#c4f35bbaf04e414483e9c1d8cca29a27
 https://conda.anaconda.org/conda-forge/linux-64/pyparsing-2.2.0-py35_0.tar.bz2#6781e8b4bdc1249acafd7a833c1a8a84
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-4.11.4-py35_3.tar.bz2#c55dd680aa39ceaeb15462d59e42933b
 https://conda.anaconda.org/conda-forge/linux-64/pysocks-1.6.8-py35_1.tar.bz2#3809b2e40c1ab438e3aa50a439200e08

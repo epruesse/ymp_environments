@@ -79,7 +79,7 @@ https://conda.anaconda.org/conda-forge/linux-64/sip-4.18-py27_1.tar.bz2#b6a2222f
 https://conda.anaconda.org/conda-forge/linux-64/six-1.11.0-py27_1.tar.bz2#68a02da2889ef1cc29d767e17f3592a1
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.13.0-1.tar.bz2#a54fc6054a2271c92ba43b857c83c39a
 https://conda.anaconda.org/conda-forge/linux-64/subprocess32-3.2.7-py27_0.tar.bz2#f0d41020133faed828ce73266e854640
-https://conda.anaconda.org/bioconda/linux-64/tbb-4.4_20150728-0.tar.bz2#1109f1b1b5b902ecdce300aaad534c89
+https://conda.anaconda.org/conda-forge/linux-64/tbb-2018_20171205-0.tar.bz2#d59eb756f95375dae39b947fdb2ab53d
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.5.19-2.tar.bz2#041db79eedb299869eedf875c4c1de47
 https://conda.anaconda.org/conda-forge/linux-64/tornado-5.0.1-py27_1.tar.bz2#e4be9363680199af63bf67245737b0d5
 https://conda.anaconda.org/conda-forge/linux-64/wheel-0.30.0-py27_2.tar.bz2#6b14c9141370d321b5c35f1c3fd78e68

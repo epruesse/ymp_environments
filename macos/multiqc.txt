@@ -36,7 +36,7 @@ https://repo.continuum.io/pkgs/main/osx-64/numpy-1.14.2-py35ha9ae307_1.tar.bz2#9
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2n-0.tar.bz2#192d3bfb41b1710145736da8b2ff044b
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py35_0.tar.bz2#60e1b30e642d3ff620ee59ba6dc5b77a
 https://conda.anaconda.org/conda-forge/osx-64/pycparser-2.18-py35_0.tar.bz2#109277ff8cb6dfdf9ea5618b510543e3
-https://conda.anaconda.org/conda-forge/osx-64/pyopenssl-17.4.0-py35_0.tar.bz2#5b6dec6f9e6637d1c794b3ccb7a77b1e
+https://conda.anaconda.org/conda-forge/osx-64/pyopenssl-17.5.0-py35_1.tar.bz2#e390dbe13d59e404f6888f73a168c605
 https://conda.anaconda.org/conda-forge/osx-64/pyparsing-2.2.0-py35_0.tar.bz2#f5d8b4ad06c4b11bd6487f6ec2a15f97
 https://conda.anaconda.org/conda-forge/osx-64/pysocks-1.6.8-py35_1.tar.bz2#3a920d0dd2b7b6e14206f898ec0ff321
 https://conda.anaconda.org/conda-forge/osx-64/python-3.5.5-0.tar.bz2#2ca5c0b53a8b84ce737fb904b6397ab5

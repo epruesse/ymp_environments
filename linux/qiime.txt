@@ -33,7 +33,7 @@ https://conda.anaconda.org/conda-forge/linux-64/gstreamer-1.8.0-1.tar.bz2#6be45d
 https://conda.anaconda.org/conda-forge/linux-64/h5py-2.7.1-py27_2.tar.bz2#2ae4a9be3265fb1f075f4ceca850c09f
 https://conda.anaconda.org/conda-forge/linux-64/hdf5-1.10.1-2.tar.bz2#614a64bab7c730f29307193313eed851
 https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-0.tar.bz2#c52602b125d146ad9e68b4d75d2585e5
-https://conda.anaconda.org/conda-forge/linux-64/ipython-5.5.0-py27_0.tar.bz2#895714dc7ef9d3815e9e7f5dc7085d0d
+https://conda.anaconda.org/conda-forge/linux-64/ipython-5.6.0-py27_0.tar.bz2#c35e6ebc7c68bcb785239f63a502e7c8
 https://conda.anaconda.org/conda-forge/linux-64/ipython_genutils-0.2.0-py27_0.tar.bz2#5e8c18afa86e5f3af13248316e202288
 https://conda.anaconda.org/conda-forge/linux-64/jpeg-9b-2.tar.bz2#f83363b188d5f6fe773ef8b17b801d9e
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.0.1-py27_1.tar.bz2#4982b53e10aa25f6d6afd6bf937b6c26

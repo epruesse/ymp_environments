@@ -95,7 +95,7 @@ https://repo.continuum.io/pkgs/main/osx-64/scipy-1.0.1-py27hcaad992_0.tar.bz2#69
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py27_0.tar.bz2#bc4c65ff6c61d6203e16a8a1e6f14a95
 https://conda.anaconda.org/bioconda/osx-64/spades-3.11.1-py27_1.tar.bz2#3086e28bc3aa4c965736f3910a980373
 https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.20.1-2.tar.bz2#3f8b55826eaa6d57a547437079818c7a
-https://conda.anaconda.org/bioconda/osx-64/tbb-4.4_20150728-0.tar.bz2#3e4c008ea9644ace36d6f7e601b2b2e1
+https://conda.anaconda.org/conda-forge/osx-64/tbb-2018_20171205-0.tar.bz2#504d350b6a38fc6a4139af8a69df5fc5
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.7-0.tar.bz2#af0580b8c35229a5d712f81fd45cc5e9
 https://conda.anaconda.org/bioconda/osx-64/vsearch-2.7.0-1.tar.bz2#7fa8d718e9acb11070590c7c04b16ed1
 https://conda.anaconda.org/conda-forge/osx-64/wheel-0.30.0-py27_2.tar.bz2#e6b7508d699292f442440c0a80c38f1a

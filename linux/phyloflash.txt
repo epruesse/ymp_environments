@@ -94,7 +94,7 @@ https://repo.continuum.io/pkgs/main/linux-64/scipy-1.0.1-py27hfc37229_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py27_0.tar.bz2#3e079a183b285ed8ee830db4d21a9532
 https://conda.anaconda.org/bioconda/linux-64/spades-3.11.1-py27_zlib1.2.11_1.tar.bz2#c239443ab649fc7c57b9e5bd4ffac62b
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.20.1-2.tar.bz2#e30426e0e2627355d55070d11908aed3
-https://conda.anaconda.org/bioconda/linux-64/tbb-4.4_20150728-0.tar.bz2#1109f1b1b5b902ecdce300aaad534c89
+https://conda.anaconda.org/conda-forge/linux-64/tbb-2018_20171205-0.tar.bz2#d59eb756f95375dae39b947fdb2ab53d
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.7-0.tar.bz2#18f4100986fe507d416335b2be0acf79
 https://conda.anaconda.org/bioconda/linux-64/vsearch-2.7.0-1.tar.bz2#9c7130382637cf6879322e3913316a99
 https://conda.anaconda.org/conda-forge/linux-64/wheel-0.30.0-py27_2.tar.bz2#6b14c9141370d321b5c35f1c3fd78e68

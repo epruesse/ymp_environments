@@ -93,7 +93,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.3-py36_0.tar.bz2#1ae77ef
 https://conda.anaconda.org/bioconda/linux-64/prodigal-2.6.3-0.tar.bz2#fa7329cbaebc30948378fd2fab9a27d7
 https://conda.anaconda.org/conda-forge/linux-64/psutil-5.4.3-py36_0.tar.bz2#89ee7351bdbc9b237ac8a1952a435cc0
 https://conda.anaconda.org/conda-forge/linux-64/pycparser-2.18-py36_0.tar.bz2#1efc8bd5247cd963e4ed24578cc8ea09
-https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.4.0-py36_0.tar.bz2#b569312b1f7e66ea6b7b63fb20b2f987
+https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-17.5.0-py36_1.tar.bz2#d5cb6bf9a9d506f8499db49938c9053c
 https://conda.anaconda.org/conda-forge/linux-64/pyparsing-2.2.0-py36_0.tar.bz2#b24509c206a680d07da243a50d4e2f1c
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.6.0-py36_4.tar.bz2#1902254815be3a64447a210ceb54e1f5
 https://conda.anaconda.org/bioconda/linux-64/pysam-0.11.1-py36_0.tar.bz2#e37022713de9ba172bd84137066bba9c

@@ -64,7 +64,7 @@ dependencies:
 - pillow=4.2.1=py27_0
 - pip=9.0.3=py27_0
 - pycparser=2.18=py27_0
-- pyopenssl=17.4.0=py27_0
+- pyopenssl=17.5.0=py27_1
 - pyparsing=2.2.0=py27_0
 - pysocks=1.6.8=py27_1
 - python=2.7.14=5

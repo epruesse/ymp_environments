@@ -14,7 +14,6 @@ dependencies:
 - perl-module-build=0.4224=pl5.22.0_0
 - samtools=1.7=2
 - slclust=02022010=2
-- tbb=4.4_20150728=0
 - trimmomatic=0.36=5
 - trinity=2.5.1=1
 - bzip2=1.0.6=1
@@ -31,6 +30,7 @@ dependencies:
 - readline=7.0=0
 - setuptools=39.0.1=py36_0
 - sqlite=3.20.1=2
+- tbb=2018_20171205=0
 - tk=8.6.7=0
 - wheel=0.30.0=py36_2
 - xz=5.2.3=0

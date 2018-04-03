@@ -15,7 +15,6 @@ dependencies:
 - pysam=0.14.1=py27_htslib1.7_0
 - python-dateutil=2.3=py27_0
 - samtools=1.7=2
-- tbb=4.4_20150728=0
 - backports=1.0=py27_1
 - backports.functools_lru_cache=1.5=py27_0
 - backports_abc=0.5=py27_0
@@ -64,6 +63,7 @@ dependencies:
 - six=1.11.0=py27_1
 - sqlite=3.20.1=2
 - subprocess32=3.2.7=py27_0
+- tbb=2018_20171205=0
 - tk=8.6.7=0
 - tornado=5.0.1=py27_1
 - wheel=0.30.0=py27_2
