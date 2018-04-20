@@ -4,16 +4,17 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- bbmap=37.90=0
+- bbmap=37.96=0
 - coreutils=8.25=1
-- samtools=1.7=2
+- libdeflate=0.8=0
+- samtools=1.8=3
 - bzip2=1.0.6=1
-- ca-certificates=2018.1.18=0
-- curl=7.59.0=0
-- krb5=1.14.2=0
+- ca-certificates=2018.4.16=0
+- curl=7.59.0=1
+- krb5=1.14.6=0
 - libssh2=1.8.0=2
 - ncurses=5.9=10
-- openssl=1.0.2n=0
+- openssl=1.0.2o=0
 - pigz=2.3.4=0
 - xz=5.2.3=0
 - zlib=1.2.11=0

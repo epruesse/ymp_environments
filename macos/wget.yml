@@ -4,7 +4,7 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- ca-certificates=2018.1.18=0
-- openssl=1.0.2n=0
+- ca-certificates=2018.4.16=0
+- openssl=1.0.2o=0
 - zlib=1.2.11=0
-- wget=1.19.1=hcb5d8a9_0
+- wget=1.19.4=h073198b_0

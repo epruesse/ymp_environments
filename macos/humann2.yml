@@ -12,7 +12,7 @@ dependencies:
 - htslib=1.7=0
 - humann2=0.11.1=py27_2
 - libffi=3.2.1=1
-- metaphlan2=2.7.5=py27_0
+- metaphlan2=2.7.5=py27_1
 - mmtf-python=1.0.2=py27_0
 - pyqi=0.3.2=py27_0
 - pysam=0.14.1=py27_htslib1.7_0
@@ -23,17 +23,17 @@ dependencies:
 - backports.functools_lru_cache=1.5=py27_0
 - backports_abc=0.5=py27_0
 - bzip2=1.0.6=1
-- ca-certificates=2018.1.18=0
-- certifi=2018.1.18=py27_0
+- ca-certificates=2018.4.16=0
+- certifi=2018.4.16=py27_0
 - cffi=1.11.5=py27_0
 - chardet=3.0.4=py27_0
 - clangdev=6.0.0=default_0
 - click=6.7=py_1
 - cryptography=2.2.1=py27_0
-- curl=7.59.0=0
+- curl=7.59.0=1
 - cycler=0.10.0=py27_0
 - enum34=1.1.6=py27_1
-- freetype=2.7=2
+- freetype=2.7=1
 - functools32=3.2.3.2=py27_2
 - future=0.16.0=py27_0
 - futures=3.2.0=py27_0
@@ -41,24 +41,24 @@ dependencies:
 - hdf5=1.10.1=2
 - icu=58.2=0
 - idna=2.6=py27_1
-- ipaddress=1.0.18=py27_0
+- ipaddress=1.0.22=py_1
 - jpeg=9b=2
-- krb5=1.14.2=0
+- krb5=1.14.6=0
 - libcxx=6.0.0=0
 - libiconv=1.15=0
-- libpng=1.6.28=2
+- libpng=1.6.34=0
 - libssh2=1.8.0=2
 - libtiff=4.0.9=0
 - libxml2=2.9.8=0
 - llvm-meta=6.0.0=0
 - llvmdev=6.0.0=default_0
-- matplotlib=2.1.1=py27_0
-- mkl_fft=1.0.1=py27_1
+- matplotlib=2.1.0=py27_0
+- mkl_fft=1.0.2=py27_0
 - mkl_random=1.0.1=py27_0
 - msgpack-python=0.5.6=py27_0
 - ncurses=5.9=10
 - olefile=0.45.1=py27_0
-- openssl=1.0.2n=0
+- openssl=1.0.2o=0
 - pandas=0.22.0=py27_0
 - perl=5.22.0.1=0
 - pillow=4.2.1=py27_0
@@ -68,7 +68,7 @@ dependencies:
 - pyparsing=2.2.0=py27_0
 - pysocks=1.6.8=py27_1
 - python=2.7.14=5
-- pytz=2018.3=py_0
+- pytz=2018.4=py_0
 - readline=7.0=0
 - reportlab=3.4.0=py27_0
 - requests=2.18.4=py27_1
@@ -79,9 +79,9 @@ dependencies:
 - subprocess32=3.2.7=py27_0
 - tbb=2018_20171205=0
 - tk=8.6.7=0
-- tornado=5.0.1=py27_1
+- tornado=5.0.2=py27_0
 - urllib3=1.22=py27_0
-- wheel=0.30.0=py27_2
+- wheel=0.31.0=py27_0
 - xz=5.2.3=0
 - zlib=1.2.11=0
 - intel-openmp=2018.0.0=8
@@ -90,8 +90,3 @@ dependencies:
 - mkl=2018.0.2=1
 - numpy=1.14.2=py27ha9ae307_1
 - scipy=1.0.1=py27hcaad992_0
-- pip:
-  - backports-abc==0.5
-  - backports.functools-lru-cache==1.5
-  - mkl-fft==1.0.0
-  - mkl-random==1.0.1

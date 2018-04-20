@@ -30,8 +30,8 @@ dependencies:
 - boost=1.64.0=py27_4
 - boost-cpp=1.64.0=1
 - bzip2=1.0.6=1
-- ca-certificates=2018.1.18=0
-- certifi=2018.1.18=py27_0
+- ca-certificates=2018.4.16=0
+- certifi=2018.4.16=py27_0
 - cycler=0.10.0=py27_0
 - dbus=1.10.22=0
 - expat=2.2.5=0
@@ -56,18 +56,18 @@ dependencies:
 - libxcb=1.13=0
 - libxml2=2.9.8=0
 - matplotlib=2.2.2=py27_1
-- mkl_fft=1.0.1=py27_1
+- mkl_fft=1.0.2=py27_0
 - mkl_random=1.0.1=py27_0
 - ncurses=5.9=10
 - nettle=3.3=0
-- openssl=1.0.2n=0
+- openssl=1.0.2o=0
 - pcre=8.41=1
 - perl=5.22.0.1=0
 - pip=9.0.3=py27_0
 - pyparsing=2.2.0=py27_0
-- pyqt=5.6.0=py27_4
+- pyqt=5.6.0=py27_5
 - python=2.7.14=5
-- pytz=2018.3=py_0
+- pytz=2018.4=py_0
 - qt=5.6.2=7
 - readline=7.0=0
 - setuptools=39.0.1=py27_0
@@ -77,8 +77,8 @@ dependencies:
 - sqlite=3.20.1=2
 - subprocess32=3.2.7=py27_0
 - tk=8.6.7=0
-- tornado=5.0.1=py27_1
-- wheel=0.30.0=py27_2
+- tornado=5.0.2=py27_0
+- wheel=0.31.0=py27_0
 - xorg-libxau=1.0.8=3
 - xorg-libxdmcp=1.1.2=3
 - xz=5.2.3=0
@@ -91,8 +91,3 @@ dependencies:
 - mkl=2018.0.2=1
 - numpy=1.14.2=py27hdbf6ddf_1
 - openjdk=8.0.121=1
-- pip:
-  - backports-abc==0.5
-  - backports.functools-lru-cache==1.5
-  - mkl-fft==1.0.0
-  - mkl-random==1.0.1
