@@ -38,7 +38,7 @@ https://conda.anaconda.org/conda-forge/osx-64/ipython_genutils-0.2.0-py27_0.tar.
 https://conda.anaconda.org/conda-forge/osx-64/kiwisolver-1.0.1-py27_1.tar.bz2#9854796e3f633ac66ab3872a7ddb015e
 https://conda.anaconda.org/conda-forge/osx-64/lockfile-0.12.2-py27_0.tar.bz2#436abf2c6e792749ea3c1556f2c9ec18
 https://conda.anaconda.org/conda-forge/osx-64/msgpack-python-0.5.6-py27_0.tar.bz2#d4467c1c110c0e299ebdd615e2d3a5a3
-https://conda.anaconda.org/conda-forge/noarch/natsort-5.2.0-py_0.tar.bz2#9905ff1aed516551ea50418c2f6cc74a
+https://conda.anaconda.org/conda-forge/noarch/natsort-5.3.0-py_0.tar.bz2#d7d5014655a38d494597229505b14b40
 https://conda.anaconda.org/conda-forge/osx-64/numpy-1.12.1-py27_blas_openblas_201.tar.bz2#ebd3817c1909fbda045a11e5b6e02943
 https://conda.anaconda.org/conda-forge/osx-64/ptyprocess-0.5.2-py27_0.tar.bz2#a1b2a525d108113a4c1d806b859544f9
 https://conda.anaconda.org/conda-forge/osx-64/pycparser-2.18-py27_0.tar.bz2#1d3aa42f541379fe1141583a3eac8f6c

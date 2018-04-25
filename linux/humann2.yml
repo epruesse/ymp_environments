@@ -30,7 +30,7 @@ dependencies:
 - cryptography=2.2.1=py27_0
 - curl=7.59.0=1
 - cycler=0.10.0=py27_0
-- dbus=1.10.22=0
+- dbus=1.11.0=0
 - enum34=1.1.6=py27_1
 - expat=2.2.5=0
 - fontconfig=2.12.1=6

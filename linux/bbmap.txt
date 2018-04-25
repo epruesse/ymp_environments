@@ -11,7 +11,7 @@ https://conda.anaconda.org/conda-forge/linux-64/ncurses-5.9-10.tar.bz2#385305fdf
 https://repo.anaconda.com/pkgs/free/linux-64/openjdk-8.0.121-1.tar.bz2#ca970fa888a9da67e9b18285c5fa1fc3
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.3-0.tar.bz2#f4e0d30b3caf631be7973cba1cf6f601
 https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2#03b1059e6919b4d0caf8ed1faedda9e7
-https://conda.anaconda.org/bioconda/linux-64/bbmap-37.96-0.tar.bz2#09a69ab6507dec0cab7aa67f88100744
+https://conda.anaconda.org/bioconda/linux-64/bbmap-37.99-0.tar.bz2#f70031db8e9b061c8caeffff3e63a666
 https://repo.anaconda.com/pkgs/main/linux-64/libgcc-7.2.0-h69d50b8_2.tar.bz2#9962126180acc1a4fec0c6aabe7c2459
 https://conda.anaconda.org/conda-forge/linux-64/openssl-1.0.2o-0.tar.bz2#6cba3f01d3159bf5f6423c8bc772dea0
 https://conda.anaconda.org/conda-forge/linux-64/pigz-2.3.4-0.tar.bz2#962e800f18e7c88489801b03cfcfce82

@@ -4,7 +4,7 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- bbmap=37.96=0
+- bbmap=37.99=0
 - coreutils=8.25=1
 - libdeflate=0.8=0
 - samtools=1.8=3

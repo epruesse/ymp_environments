@@ -48,7 +48,7 @@ dependencies:
 - curl=7.59.0=1
 - cycler=0.10.0=py36_0
 - cython=0.28.2=py36_0
-- dbus=1.10.22=0
+- dbus=1.11.0=0
 - django=2.0.2=py36_0
 - expat=2.2.5=0
 - fontconfig=2.12.6=0

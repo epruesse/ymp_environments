@@ -19,7 +19,7 @@ https://conda.anaconda.org/conda-forge/linux-64/xorg-libxau-1.0.8-3.tar.bz2#2895
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxdmcp-1.1.2-3.tar.bz2#d543828da097f7fd7ad9f4688edef705
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.3-0.tar.bz2#f4e0d30b3caf631be7973cba1cf6f601
 https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2#03b1059e6919b4d0caf8ed1faedda9e7
-https://conda.anaconda.org/conda-forge/linux-64/dbus-1.10.22-0.tar.bz2#da26810e9df8c726ba5f8a1bb9f9693c
+https://conda.anaconda.org/conda-forge/linux-64/dbus-1.11.0-0.tar.bz2#d0fe5a586ab7760d97c6a36ee52bb4aa
 https://conda.anaconda.org/conda-forge/linux-64/glib-2.55.0-0.tar.bz2#76990364c8fd64f1133a3f291e45c3ae
 https://conda.anaconda.org/conda-forge/linux-64/hdf5-1.10.1-2.tar.bz2#614a64bab7c730f29307193313eed851
 https://repo.anaconda.com/pkgs/main/linux-64/libgcc-7.2.0-h69d50b8_2.tar.bz2#9962126180acc1a4fec0c6aabe7c2459
@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/linux-64/ipython_genutils-0.2.0-py27_0.ta
 https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.0.1-py27_1.tar.bz2#4982b53e10aa25f6d6afd6bf937b6c26
 https://conda.anaconda.org/conda-forge/linux-64/lockfile-0.12.2-py27_0.tar.bz2#3ce4a5dca1a9516a9d0a1de166394adb
 https://conda.anaconda.org/conda-forge/linux-64/msgpack-python-0.5.6-py27_0.tar.bz2#4d79a5507e13beac24459b3ec132dd3d
-https://conda.anaconda.org/conda-forge/noarch/natsort-5.2.0-py_0.tar.bz2#9905ff1aed516551ea50418c2f6cc74a
+https://conda.anaconda.org/conda-forge/noarch/natsort-5.3.0-py_0.tar.bz2#d7d5014655a38d494597229505b14b40
 https://conda.anaconda.org/conda-forge/linux-64/numpy-1.12.1-py27_blas_openblas_201.tar.bz2#99144c29418145e13da3add68480d353
 https://conda.anaconda.org/conda-forge/linux-64/ptyprocess-0.5.2-py27_0.tar.bz2#ca6a1a2eec60ca56f82adcfd30b78b93
 https://conda.anaconda.org/conda-forge/linux-64/pycparser-2.18-py27_0.tar.bz2#15ab6cf224b385d218cefcca6a33875d

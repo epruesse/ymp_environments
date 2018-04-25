@@ -33,7 +33,7 @@ dependencies:
 - ca-certificates=2018.4.16=0
 - certifi=2018.4.16=py27_0
 - cycler=0.10.0=py27_0
-- dbus=1.10.22=0
+- dbus=1.11.0=0
 - expat=2.2.5=0
 - fontconfig=2.12.6=0
 - freetype=2.8.1=0

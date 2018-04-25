@@ -24,7 +24,7 @@ dependencies:
 - click=6.7=py_1
 - curl=7.59.0=1
 - cycler=0.10.0=py27_0
-- dbus=1.10.22=0
+- dbus=1.11.0=0
 - expat=2.2.5=0
 - fontconfig=2.12.1=6
 - freetype=2.7=2
