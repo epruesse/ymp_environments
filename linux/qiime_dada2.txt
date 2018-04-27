@@ -156,7 +156,7 @@ https://conda.anaconda.org/conda-forge/linux-64/r-stringr-1.3.0-r3.3.2_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-biocparallel-1.6.6-r3.3.2_1.tar.bz2#6909b17a63fcc6d5fc88192ba87521e7
 https://conda.anaconda.org/bioconda/linux-64/bioconductor-iranges-2.8.2-r3.3.2_0.tar.bz2#a6000e13548b3ec81e1c9b7a22a2d963
 https://conda.anaconda.org/bioconda/linux-64/cogent-1.5.3-py27_0.tar.bz2#edf716c8172d480b5c1debf013f06a5b
-https://conda.anaconda.org/conda-forge/linux-64/r-pillar-1.2.1-r3.3.2_0.tar.bz2#4c7eb980fc181030e00e68c96fc2846a
+https://conda.anaconda.org/conda-forge/linux-64/r-pillar-1.2.2-r341_0.tar.bz2#8af92822f36dc6b8110d363c9fd23eaa
 https://conda.anaconda.org/conda-forge/linux-64/r-reshape2-1.4.3-r3.3.2_0.tar.bz2#c6a4825276e2f4e44d96e75c116568ca
 https://conda.anaconda.org/conda-forge/linux-64/r-scales-0.5.0-r3.3.2_0.tar.bz2#604d521a7903e9dbce851433d297d238
 https://conda.anaconda.org/bioconda/linux-64/scikit-bio-0.2.3-np112py27_0.tar.bz2#9391637f7caad88bc157e6113deaff5f

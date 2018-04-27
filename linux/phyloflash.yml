@@ -72,7 +72,7 @@ dependencies:
 - r-mass=7.3_48=r3.4.1_0
 - r-munsell=0.4.3=r3.4.1_0
 - r-optparse=1.4.4=r3.4.1_0
-- r-pillar=1.2.1=r3.4.1_0
+- r-pillar=1.2.2=r341_0
 - r-plyr=1.8.4=r3.4.1_0
 - r-r6=2.2.2=r3.4.1_0
 - r-rcolorbrewer=1.1_2=r3.4.1_0
