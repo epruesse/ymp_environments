@@ -56,7 +56,7 @@ https://conda.anaconda.org/conda-forge/osx-64/subprocess32-3.2.7-py27_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-64/cycler-0.10.0-py27_0.tar.bz2#037411bea4db66e41ba29f1c2a2992b9
 https://conda.anaconda.org/bioconda/osx-64/perl-archive-tar-2.18-pl5.22.0_2.tar.bz2#37395dcb51f8cf4d6c91de28cfb5b0e0
 https://conda.anaconda.org/bioconda/osx-64/python-dateutil-2.3-py27_0.tar.bz2#aad8093e4d5bd369d5776f99dc41f72a
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py27_0.tar.bz2#bc4c65ff6c61d6203e16a8a1e6f14a95
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py27_0.tar.bz2#0d364c4c61b6d5e632c7ee42643ac19e
 https://conda.anaconda.org/conda-forge/osx-64/singledispatch-3.4.0.3-py27_0.tar.bz2#94ac85948afcbd52c6d44142b48fa52a
 https://conda.anaconda.org/conda-forge/osx-64/backports.functools_lru_cache-1.5-py27_0.tar.bz2#7b7358a56e013dc5722d3bfbe18cafa6
 https://conda.anaconda.org/conda-forge/osx-64/tornado-5.0.2-py27_0.tar.bz2#06bd3c204b67102918d544125342a6d0

@@ -53,7 +53,7 @@ https://conda.anaconda.org/conda-forge/linux-64/kiwisolver-1.0.1-py27_1.tar.bz2#
 https://conda.anaconda.org/conda-forge/linux-64/mpi4py-3.0.0-py27_0.tar.bz2#d9ff6ed81871ad6e21343ccdec0b421b
 https://repo.anaconda.com/pkgs/free/linux-64/mysql-python-1.2.5-py27_0.tar.bz2#94b9d829a235a84b1993481a0031487b
 https://repo.anaconda.com/pkgs/free/linux-64/natsort-3.5.0-py27_0.tar.bz2#72b5eb36048587994eea49973c1b5b40
-https://conda.anaconda.org/conda-forge/linux-64/numpy-1.14.2-py27_blas_openblas_200.tar.bz2#8a620381d5632f6f63235c086782c108
+https://conda.anaconda.org/conda-forge/linux-64/numpy-1.14.3-py27_blas_openblas_200.tar.bz2#9e5eb880e5a42cd5129b13e0e22ccedd
 https://conda.anaconda.org/conda-forge/linux-64/ptyprocess-0.5.2-py27_0.tar.bz2#ca6a1a2eec60ca56f82adcfd30b78b93
 https://conda.anaconda.org/conda-forge/linux-64/pyparsing-2.2.0-py27_0.tar.bz2#99e4f6efe55e1b3b568bccbd3027974c
 https://conda.anaconda.org/conda-forge/noarch/pytz-2018.4-py_0.tar.bz2#774bf544d1735f3cb0b2625e98328cde
@@ -76,7 +76,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.6.0-py27_5.tar.bz2#8237c0
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.7.2-py_0.tar.bz2#47a6855d6c2175976b9758942d66aaa3
 https://conda.anaconda.org/bioconda/linux-64/qiime-default-reference-0.1.3-py27_0.tar.bz2#20212a28ae05844b9f6dbe62455b13fd
 https://conda.anaconda.org/conda-forge/linux-64/scipy-1.0.1-py27_blas_openblas_200.tar.bz2#89433f9618cb231a7fc53119c2ea5267
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py27_0.tar.bz2#3e079a183b285ed8ee830db4d21a9532
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py27_0.tar.bz2#e602dcf7868d88e7ff19179ed285ab86
 https://conda.anaconda.org/conda-forge/linux-64/singledispatch-3.4.0.3-py27_0.tar.bz2#7ed2cd5f3e4ce170516d66b3e931a2ed
 https://conda.anaconda.org/conda-forge/linux-64/traitlets-4.3.2-py27_0.tar.bz2#a979aac49c84ff1626878352ef46d92a
 https://conda.anaconda.org/conda-forge/linux-64/backports.functools_lru_cache-1.5-py27_0.tar.bz2#f06ec2e29c34e21d00dfe1d77e7fcf91

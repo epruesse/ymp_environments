@@ -78,7 +78,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.5.0-py27_0.tar.bz2#542
 https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.6.0-py27_5.tar.bz2#8237c0bfa4674ffdcb3c5053218ecaa5
 https://conda.anaconda.org/bioconda/linux-64/python-dateutil-2.3-py27_0.tar.bz2#818695afd1900050dc72cdb42f3e720c
 https://conda.anaconda.org/conda-forge/linux-64/scipy-1.0.1-py27_blas_openblas_200.tar.bz2#89433f9618cb231a7fc53119c2ea5267
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py27_0.tar.bz2#3e079a183b285ed8ee830db4d21a9532
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py27_0.tar.bz2#e602dcf7868d88e7ff19179ed285ab86
 https://conda.anaconda.org/conda-forge/linux-64/singledispatch-3.4.0.3-py27_0.tar.bz2#7ed2cd5f3e4ce170516d66b3e931a2ed
 https://conda.anaconda.org/conda-forge/linux-64/traitlets-4.3.2-py27_0.tar.bz2#a979aac49c84ff1626878352ef46d92a
 https://conda.anaconda.org/conda-forge/linux-64/backports.functools_lru_cache-1.5-py27_0.tar.bz2#f06ec2e29c34e21d00dfe1d77e7fcf91

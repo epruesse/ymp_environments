@@ -89,7 +89,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pexpect-4.5.0-py27_0.tar.bz2#542
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.7.2-py_0.tar.bz2#47a6855d6c2175976b9758942d66aaa3
 https://conda.anaconda.org/bioconda/linux-64/qiime-default-reference-0.1.3-py27_0.tar.bz2#20212a28ae05844b9f6dbe62455b13fd
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.0.1-py27hfc37229_0.tar.bz2#8a4cb854a64db164408f5b1816c5979b
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py27_0.tar.bz2#3e079a183b285ed8ee830db4d21a9532
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py27_0.tar.bz2#e602dcf7868d88e7ff19179ed285ab86
 https://conda.anaconda.org/conda-forge/linux-64/singledispatch-3.4.0.3-py27_0.tar.bz2#7ed2cd5f3e4ce170516d66b3e931a2ed
 https://conda.anaconda.org/conda-forge/linux-64/traitlets-4.3.2-py27_0.tar.bz2#a979aac49c84ff1626878352ef46d92a
 https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-1.4.3-0.tar.bz2#c0490fe3a33017495fe1e3eb7a15967d
@@ -137,7 +137,7 @@ https://conda.anaconda.org/conda-forge/linux-64/r-rcolorbrewer-1.1_2-r3.3.2_0.ta
 https://conda.anaconda.org/conda-forge/linux-64/r-rcpp-0.12.15-r3.3.2_0.tar.bz2#dea8ecbde56987728f776542ba062517
 https://conda.anaconda.org/conda-forge/linux-64/r-rlang-0.2.0-r3.3.2_0.tar.bz2#63aa9438fd510cdb8a233dabdb4e60c7
 https://conda.anaconda.org/conda-forge/linux-64/r-snow-0.4_2-r3.3.2_0.tar.bz2#bd34fd0ae0d59e5e70f687b06657427a
-https://conda.anaconda.org/conda-forge/linux-64/r-stringi-1.1.7-r3.3.2_0.tar.bz2#cbcc0a9a751804ec4507bd4d955c9a75
+https://conda.anaconda.org/conda-forge/linux-64/r-stringi-1.1.7-r3.3.2_1.tar.bz2#8378a8ea21046a1cb1eb056a71d8419b
 https://conda.anaconda.org/conda-forge/linux-64/r-utf8-1.1.3-r3.3.2_0.tar.bz2#03ab5bf0974690ebf187e39fd1dbcc05
 https://conda.anaconda.org/conda-forge/linux-64/r-viridislite-0.2.0-r3.3.2_0.tar.bz2#1491224cf50d87848e0adeab5b8792b9
 https://conda.anaconda.org/conda-forge/linux-64/rpy2-2.8.5-py27r3.3.2_0.tar.bz2#0ef7cf9b1e912d6aac3693bd07b6ddff

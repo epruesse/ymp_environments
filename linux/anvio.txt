@@ -114,7 +114,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pyqt-5.6.0-py36_5.tar.bz2#430c2b
 https://conda.anaconda.org/bioconda/linux-64/pysam-0.11.1-py36_0.tar.bz2#e37022713de9ba172bd84137066bba9c
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.7.2-py_0.tar.bz2#47a6855d6c2175976b9758942d66aaa3
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.0.1-py36hfc37229_0.tar.bz2#136721636c2b63c5601a33a316dfa28d
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py36_0.tar.bz2#9eb315c4bf2c56fbae75554c4933aafb
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py36_0.tar.bz2#096281db75b70b6bfba367946f6b463d
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-2.2.1-py36_0.tar.bz2#ce4e49b8923db9a08ec8bf8b01ad55e8
 https://conda.anaconda.org/bioconda/linux-64/ete3-3.1.1-py36_0.tar.bz2#d273d6a6d07e867fa78129f08d206df5
 https://conda.anaconda.org/conda-forge/linux-64/matplotlib-2.2.2-py36_1.tar.bz2#58abd51c5cb11a37cdda0497727cacfe

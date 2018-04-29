@@ -68,7 +68,7 @@ dependencies:
 - requests=2.18.4=py27_1
 - scandir=1.7=py27_0
 - scipy=1.0.1=py27_blas_openblas_200
-- setuptools=39.0.1=py27_0
+- setuptools=39.1.0=py27_0
 - simplegeneric=0.8.1=py27_0
 - singledispatch=3.4.0.3=py27_0
 - six=1.11.0=py27_1

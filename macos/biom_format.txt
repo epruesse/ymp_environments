@@ -29,7 +29,7 @@ https://conda.anaconda.org/conda-forge/osx-64/future-0.16.0-py35_0.tar.bz2#1f67d
 https://conda.anaconda.org/conda-forge/noarch/pytz-2018.4-py_0.tar.bz2#774bf544d1735f3cb0b2625e98328cde
 https://conda.anaconda.org/conda-forge/osx-64/six-1.11.0-py35_1.tar.bz2#7107622da29a5bb5809506d15081db18
 https://conda.anaconda.org/bioconda/osx-64/python-dateutil-2.3-py35_0.tar.bz2#18bddd485366c4f9bd8811d958ba6688
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py35_0.tar.bz2#4a0dff610e53ee1a7570b32ac4d8f02d
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py35_0.tar.bz2#4fd9849fcc7680e796f8e43d1421ce15
 https://conda.anaconda.org/conda-forge/osx-64/wheel-0.31.0-py35_0.tar.bz2#11890f5c9450d90760f984f28a1e19bb
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py35_0.tar.bz2#60e1b30e642d3ff620ee59ba6dc5b77a
 https://conda.anaconda.org/conda-forge/osx-64/h5py-2.7.1-py35_2.tar.bz2#5f7d048a855bc26ff94891385e4d9c59

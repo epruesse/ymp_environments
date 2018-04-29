@@ -109,7 +109,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pyqt-5.6.0-py36_5.tar.bz2#a39a692e
 https://conda.anaconda.org/bioconda/osx-64/pysam-0.11.1-py36_0.tar.bz2#697091e369fab700629f9e500d1b0f72
 https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.7.2-py_0.tar.bz2#47a6855d6c2175976b9758942d66aaa3
 https://repo.anaconda.com/pkgs/main/osx-64/scipy-1.0.1-py36hcaad992_0.tar.bz2#e5172899f48be8d37849678a76ce0746
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py36_0.tar.bz2#bcc229f60ed9b00bb976833e89fd6fa0
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py36_0.tar.bz2#10f18fc6714d620e10ff68d88ca69eff
 https://conda.anaconda.org/bioconda/osx-64/blast-2.7.1-boost1.64_3.tar.bz2#9aa810e523a72e2adaeb295ed111f650
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-2.2.1-py36_0.tar.bz2#3cc60113c14bbdccd5cd6f24f5f16a3a
 https://conda.anaconda.org/bioconda/osx-64/ete3-3.1.1-py36_0.tar.bz2#9d73715ef6d0ab0f7b0a9963b8a3603f

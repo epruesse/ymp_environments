@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/linux-64/cycler-0.10.0-py35_0.tar.bz2#f87
 https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-1.0.6-1.tar.bz2#607edb1e2a1834b7db6fdbf35b879834
 https://conda.anaconda.org/conda-forge/linux-64/lzstring-1.0.3-py35_0.tar.bz2#a7842d6a58cf10c1f9886f3417cd4383
 https://conda.anaconda.org/bioconda/linux-64/python-dateutil-2.3-py35_0.tar.bz2#2291c47daeb2ccc5ba2ddb41444279a7
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py35_0.tar.bz2#b37130a8258d4d9ccf0fe485ed225081
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py35_0.tar.bz2#915984f5c21e4afcd3bae0dbabde929c
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-2.2.1-py35_0.tar.bz2#b5e0ca0fbf2698897abd71b221bebe84
 https://conda.anaconda.org/conda-forge/linux-64/jinja2-2.10-py35_0.tar.bz2#483dc7a59293e3e0526e54af52f4c0fb
 https://conda.anaconda.org/conda-forge/linux-64/networkx-2.0-py35_1.tar.bz2#d9e720c8d8a22bc1e7087eae807e61a0

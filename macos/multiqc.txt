@@ -40,7 +40,7 @@ https://conda.anaconda.org/conda-forge/osx-64/cffi-1.11.5-py35_0.tar.bz2#42a045c
 https://conda.anaconda.org/conda-forge/osx-64/cycler-0.10.0-py35_0.tar.bz2#9099b47e5ed087ac3da9a8082b860844
 https://conda.anaconda.org/conda-forge/osx-64/lzstring-1.0.3-py35_0.tar.bz2#2fbcaf0ad4311fb743de5afa1f8758c6
 https://conda.anaconda.org/bioconda/osx-64/python-dateutil-2.3-py35_0.tar.bz2#18bddd485366c4f9bd8811d958ba6688
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py35_0.tar.bz2#4a0dff610e53ee1a7570b32ac4d8f02d
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py35_0.tar.bz2#4fd9849fcc7680e796f8e43d1421ce15
 https://conda.anaconda.org/conda-forge/osx-64/backports.functools_lru_cache-1.5-py35_0.tar.bz2#d99ae29bfcb3057fd18696eba9010e9d
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-2.2.1-py35_0.tar.bz2#8ed1125accf3d160ce7b2b502d5853e8
 https://conda.anaconda.org/conda-forge/osx-64/jinja2-2.10-py35_0.tar.bz2#86d8d864a232d256ec930472814a9471

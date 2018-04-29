@@ -21,6 +21,6 @@ https://conda.anaconda.org/conda-forge/osx-64/python-3.6.5-1.tar.bz2#7476addcf50
 https://conda.anaconda.org/bioconda/osx-64/bowtie2-2.3.4.1-py36pl5.22.0_0.tar.bz2#39000c98cafb49c88d657ffc0c5668ff
 https://conda.anaconda.org/conda-forge/osx-64/certifi-2018.4.16-py36_0.tar.bz2#33ed057871ca964a60fe4103db1530c3
 https://conda.anaconda.org/bioconda/osx-64/samtools-1.8-3.tar.bz2#4e50f94f4e0c86c8472dc500879572b0
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py36_0.tar.bz2#bcc229f60ed9b00bb976833e89fd6fa0
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py36_0.tar.bz2#10f18fc6714d620e10ff68d88ca69eff
 https://conda.anaconda.org/conda-forge/osx-64/wheel-0.31.0-py36_0.tar.bz2#530a188633a02b35748071fad39bd5f9
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py36_0.tar.bz2#686ac52a2df376c3bc48c500ff7618b0

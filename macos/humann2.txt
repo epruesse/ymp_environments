@@ -65,7 +65,7 @@ https://conda.anaconda.org/bioconda/osx-64/mmtf-python-1.0.2-py27_0.tar.bz2#2009
 https://conda.anaconda.org/conda-forge/osx-64/pillow-4.2.1-py27_0.tar.bz2#7c33dc58dd8fb91a73e8e33206ed8cff
 https://conda.anaconda.org/bioconda/osx-64/pysam-0.14.1-py27_htslib1.7_0.tar.bz2#74f7a218f57d61b0392443dee6190ca9
 https://conda.anaconda.org/bioconda/osx-64/python-dateutil-2.3-py27_0.tar.bz2#aad8093e4d5bd369d5776f99dc41f72a
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.0.1-py27_0.tar.bz2#bc4c65ff6c61d6203e16a8a1e6f14a95
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.1.0-py27_0.tar.bz2#0d364c4c61b6d5e632c7ee42643ac19e
 https://conda.anaconda.org/conda-forge/osx-64/singledispatch-3.4.0.3-py27_0.tar.bz2#94ac85948afcbd52c6d44142b48fa52a
 https://conda.anaconda.org/conda-forge/osx-64/backports.functools_lru_cache-1.5-py27_0.tar.bz2#7b7358a56e013dc5722d3bfbe18cafa6
 https://conda.anaconda.org/conda-forge/osx-64/cryptography-2.2.1-py27_0.tar.bz2#787be2e58b4805b83101e28b3402cf2f

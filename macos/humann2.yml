@@ -72,7 +72,7 @@ dependencies:
 - readline=7.0=0
 - reportlab=3.4.0=py27_0
 - requests=2.18.4=py27_1
-- setuptools=39.0.1=py27_0
+- setuptools=39.1.0=py27_0
 - singledispatch=3.4.0.3=py27_0
 - six=1.11.0=py27_1
 - sqlite=3.20.1=2

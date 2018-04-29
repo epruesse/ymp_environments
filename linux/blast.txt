@@ -42,7 +42,7 @@ https://conda.anaconda.org/conda-forge/linux-64/certifi-2018.4.16-py36_0.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/perl-carp-1.38-pl5.22.0_0.tar.bz2#9187de1006fd15fb74d818febab58087
 https://conda.anaconda.org/bioconda/linux-64/perl-io-zlib-1.10-1.tar.bz2#cf694e509ed05e39671d768b1f5226e7
 https://conda.anaconda.org/bioconda/linux-64/perl-pathtools-3.73-0.tar.bz2#98e1f9773a400b03f4fe11ba25971445
-https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.0.1-py36_0.tar.bz2#9eb315c4bf2c56fbae75554c4933aafb
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py36_0.tar.bz2#096281db75b70b6bfba367946f6b463d
 https://conda.anaconda.org/bioconda/linux-64/perl-archive-tar-2.18-pl5.22.0_2.tar.bz2#53c37f75fcc765254d3f67f23948de36
 https://conda.anaconda.org/conda-forge/linux-64/wheel-0.31.0-py36_0.tar.bz2#ad8d37025141ffc6fc3d1cbfd34b864c
 https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.3-py36_0.tar.bz2#1ae77efe3381d3c212965807248d8a20
