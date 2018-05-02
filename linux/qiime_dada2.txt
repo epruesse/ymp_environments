@@ -121,7 +121,7 @@ https://conda.anaconda.org/conda-forge/linux-64/r-colorspace-1.3_2-r3.3.2_0.tar.
 https://conda.anaconda.org/conda-forge/linux-64/r-crayon-1.3.4-r3.3.2_0.tar.bz2#3eeb37c5db2b515b16f22e29d99182b2
 https://conda.anaconda.org/conda-forge/linux-64/r-data.table-1.10.4-r3.3.2_0.tar.bz2#e0d1d2adc78fed8fd0db37f6ec53bf21
 https://conda.anaconda.org/conda-forge/linux-64/r-dichromat-2.0_0-r3.3.2_0.tar.bz2#88b5e4b356b32784d6c924ab64670002
-https://conda.anaconda.org/conda-forge/linux-64/r-digest-0.6.12-r3.3.2_0.tar.bz2#563845f39549305e962612cc1136a574
+https://conda.anaconda.org/conda-forge/linux-64/r-digest-0.6.15-r3.3.2_0.tar.bz2#8943912e0fc9b357ad62c15bd04124c4
 https://conda.anaconda.org/conda-forge/linux-64/r-futile.options-1.0.0-r3.3.2_0.tar.bz2#6cf23ab2f3462e4dc7a7c23ed63b16d5
 https://conda.anaconda.org/conda-forge/linux-64/r-glue-1.2.0-r3.3.2_0.tar.bz2#eb07701909b737eb56a1958a8d75a675
 https://conda.anaconda.org/conda-forge/linux-64/r-gtable-0.2.0-r3.3.2_0.tar.bz2#d394675e54a7805683c10c9d1b94d921

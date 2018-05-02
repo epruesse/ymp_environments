@@ -18,7 +18,7 @@ dependencies:
 - libiconv=1.15=0
 - libxml2=2.9.8=0
 - llvm-meta=6.0.0=0
-- llvmdev=6.0.0=default_1
+- llvmdev=6.0.0=default_2
 - mkl_fft=1.0.2=py35_0
 - mkl_random=1.0.1=py35_0
 - ncurses=5.9=10
