@@ -36,6 +36,6 @@ https://conda.anaconda.org/conda-forge/osx-64/h5py-2.7.1-py35_2.tar.bz2#5f7d048a
 https://conda.anaconda.org/conda-forge/osx-64/mkl_fft-1.0.2-py35_0.tar.bz2#2c8c95fc6c94d7575b6baa6cfbac366b
 https://conda.anaconda.org/conda-forge/osx-64/mkl_random-1.0.1-py35_0.tar.bz2#a19a205027f90b19291ae440c30b9903
 https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.14.2-py35ha9ae307_1.tar.bz2#90d48757e100ab4f6736e589c7fe6ff1
-https://conda.anaconda.org/conda-forge/osx-64/pandas-0.22.0-py35_0.tar.bz2#8a045b2d0d92678ac428031ef2bafdd1
+https://conda.anaconda.org/conda-forge/osx-64/pandas-0.22.0-py35_1.tar.bz2#9e9d91f580fe707d425e0eb449ed0172
 https://repo.anaconda.com/pkgs/main/osx-64/scipy-1.0.1-py35hcaad992_0.tar.bz2#192edd85af4a5917f7f64eb766cad200
 https://conda.anaconda.org/bioconda/osx-64/biom-format-2.1.6-py35_0.tar.bz2#16fcb4f0898a58f0bf868a15915666c5

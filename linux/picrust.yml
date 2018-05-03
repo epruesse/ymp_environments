@@ -54,7 +54,7 @@ dependencies:
 - mpich=3.2.1=0
 - ncurses=5.9=10
 - openssl=1.0.2o=0
-- pandas=0.22.0=py27_0
+- pandas=0.22.0=py27_1
 - pango=1.40.14=0
 - pcre=8.39=0
 - pip=9.0.3=py27_0

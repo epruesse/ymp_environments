@@ -23,7 +23,7 @@ dependencies:
 - mkl_random=1.0.1=py35_0
 - ncurses=5.9=10
 - openssl=1.0.2o=0
-- pandas=0.22.0=py35_0
+- pandas=0.22.0=py35_1
 - pip=9.0.3=py35_0
 - python=3.5.5=1
 - pytz=2018.4=py_0

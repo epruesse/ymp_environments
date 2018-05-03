@@ -80,7 +80,7 @@ https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.1.0-py27_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/singledispatch-3.4.0.3-py27_0.tar.bz2#7ed2cd5f3e4ce170516d66b3e931a2ed
 https://conda.anaconda.org/conda-forge/linux-64/traitlets-4.3.2-py27_0.tar.bz2#a979aac49c84ff1626878352ef46d92a
 https://conda.anaconda.org/conda-forge/linux-64/backports.functools_lru_cache-1.5-py27_0.tar.bz2#f06ec2e29c34e21d00dfe1d77e7fcf91
-https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py27_0.tar.bz2#c3c85b490e840807094d1c75b7fe645f
+https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py27_1.tar.bz2#f958060056702f0ba62444e4afef1f40
 https://conda.anaconda.org/conda-forge/linux-64/pickleshare-0.7.4-py27_0.tar.bz2#13726a49d3f0837bd05e0d2b179323f9
 https://conda.anaconda.org/conda-forge/linux-64/pygments-2.2.0-py27_0.tar.bz2#adec4e787eefcd491726ac18d30373cc
 https://conda.anaconda.org/bioconda/linux-64/pyqi-0.3.2-py27_0.tar.bz2#1b2577777f20643b401cfed86cdad8a6

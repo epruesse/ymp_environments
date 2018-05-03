@@ -63,7 +63,7 @@ dependencies:
 - ncurses=5.9=10
 - olefile=0.45.1=py27_0
 - openssl=1.0.2o=0
-- pandas=0.22.0=py27_0
+- pandas=0.22.0=py27_1
 - pcre=8.41=1
 - perl=5.22.0.1=0
 - pillow=4.2.1=py27_0

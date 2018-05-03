@@ -50,7 +50,7 @@ dependencies:
 - numpy=1.12.1=py27_blas_openblas_201
 - openblas=0.2.20=7
 - openssl=1.0.2o=0
-- pandas=0.22.0=py27_0
+- pandas=0.22.0=py27_1
 - pathlib2=2.3.2=py27_0
 - pbr=4.0.2=py_0
 - pcre=8.41=1

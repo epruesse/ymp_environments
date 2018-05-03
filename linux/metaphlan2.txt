@@ -83,7 +83,7 @@ https://conda.anaconda.org/conda-forge/linux-64/matplotlib-2.1.1-py27_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/linux-64/mkl_fft-1.0.2-py27_0.tar.bz2#2a88541cc461ddc2404cbd7d80dfdaf5
 https://conda.anaconda.org/conda-forge/linux-64/mkl_random-1.0.1-py27_0.tar.bz2#782822be350f07e3dc9be6be3fa0c03d
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.14.2-py27hdbf6ddf_1.tar.bz2#a859ed490a94d41987a863c7f78597d7
-https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py27_0.tar.bz2#c3c85b490e840807094d1c75b7fe645f
+https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py27_1.tar.bz2#f958060056702f0ba62444e4afef1f40
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.0.1-py27hfc37229_0.tar.bz2#8a4cb854a64db164408f5b1816c5979b
 https://conda.anaconda.org/bioconda/linux-64/biom-format-2.1.6-py27_0.tar.bz2#7d81b45c756bdc6b304ba2db6ccff5e6
 https://conda.anaconda.org/bioconda/linux-64/metaphlan2-2.6.0-py27_2.tar.bz2#05b675ac14fde5b145c96ff3caa26507

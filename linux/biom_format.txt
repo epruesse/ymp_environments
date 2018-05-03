@@ -32,6 +32,6 @@ https://conda.anaconda.org/conda-forge/linux-64/h5py-2.7.1-py35_2.tar.bz2#f463ad
 https://conda.anaconda.org/conda-forge/linux-64/mkl_fft-1.0.2-py35_0.tar.bz2#7e0fcbff8e8a7f017ec7d2454bd204af
 https://conda.anaconda.org/conda-forge/linux-64/mkl_random-1.0.1-py35_0.tar.bz2#1ef63e52ed56428493e5d177693c088d
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.14.2-py35hdbf6ddf_1.tar.bz2#991b603a4cec512eaf59f0564f8bc3ef
-https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py35_0.tar.bz2#39ae15df5a693afbdc5d973ac191e5d4
+https://conda.anaconda.org/conda-forge/linux-64/pandas-0.22.0-py35_1.tar.bz2#bedf73e207e2cbaa2fb0760ba494dcde
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.0.1-py35hfc37229_0.tar.bz2#3639d992b33270f8fe7dd1db1fda0e79
 https://conda.anaconda.org/bioconda/linux-64/biom-format-2.1.6-py35_0.tar.bz2#a29c7815be157afc234c75d2b7101a32
