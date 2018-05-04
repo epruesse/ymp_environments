@@ -14,7 +14,7 @@ https://conda.anaconda.org/conda-forge/linux-64/libiconv-1.15-0.tar.bz2#b0eb0e67
 https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-7.2.0-hdf63c60_3.tar.bz2#6b28769c1660675dfb38d1c36df7f1f2
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-5.9-10.tar.bz2#385305fdf1ea5dabff1fd7a1f5e1e115
 https://conda.anaconda.org/conda-forge/linux-64/pcre-8.41-1.tar.bz2#efb52c6fc3e13eb7303f2cf67c39bd30
-https://conda.anaconda.org/conda-forge/linux-64/pixman-0.34.0-1.tar.bz2#b723f8a6c1d0aeec6d5cd5a7cedc5c0b
+https://conda.anaconda.org/conda-forge/linux-64/pixman-0.34.0-2.tar.bz2#6cb3d29bc3d56f8528a6585eeb977740
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.7-0.tar.bz2#18f4100986fe507d416335b2be0acf79
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.3-0.tar.bz2#f4e0d30b3caf631be7973cba1cf6f601
 https://conda.anaconda.org/conda-forge/linux-64/yaml-0.1.7-0.tar.bz2#090fd9226831c5d3e86dfa1c526186c3

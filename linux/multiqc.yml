@@ -43,7 +43,7 @@ dependencies:
 - pango=1.40.1=0
 - pcre=8.41=1
 - pip=9.0.3=py35_0
-- pixman=0.34.0=1
+- pixman=0.34.0=2
 - pycparser=2.18=py35_0
 - pyopenssl=17.5.0=py35_1
 - pyparsing=2.2.0=py35_0

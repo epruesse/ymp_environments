@@ -52,7 +52,7 @@ dependencies:
 - pigz=2.3.4=0
 - pillow=4.2.1=py27_0
 - pip=9.0.3=py27_0
-- pixman=0.34.0=1
+- pixman=0.34.0=2
 - python=2.7.14=5
 - r-assertthat=0.2.0=r3.4.1_0
 - r-base=3.4.1=3

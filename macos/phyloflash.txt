@@ -20,7 +20,7 @@ https://conda.anaconda.org/bioconda/osx-64/mafft-7.313-0.tar.bz2#65b18e69e62e2aa
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2#f303ad9e588c5f06b9b02077b57d88d5
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.39-0.tar.bz2#d31db175a55d7d3a7e864d462f6d0776
 https://conda.anaconda.org/conda-forge/osx-64/perl-5.22.0.1-0.tar.bz2#45fc5fe461319570ff8f43fdf7a66530
-https://conda.anaconda.org/conda-forge/osx-64/pixman-0.34.0-1.tar.bz2#c6246c5f26e080be3402a5237036bf9a
+https://conda.anaconda.org/conda-forge/osx-64/pixman-0.34.0-2.tar.bz2#dcac15cd1b6bc28433b68e5b7fbaa7ac
 https://conda.anaconda.org/conda-forge/osx-64/tbb-2018_20171205-0.tar.bz2#504d350b6a38fc6a4139af8a69df5fc5
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.7-0.tar.bz2#af0580b8c35229a5d712f81fd45cc5e9
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.3-0.tar.bz2#aa4147a23e0324d10adc7e3dcb26d919
