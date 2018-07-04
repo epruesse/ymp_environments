@@ -4,4 +4,4 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- raxml=8.2.10=0
+- raxml=8.2.10=h470a237_1

@@ -2,9 +2,10 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 @EXPLICIT
+https://repo.continuum.io/pkgs/main/linux-64/libgcc-ng-7.2.0-hdf63c60_3.tar.bz2#944ff8bc5bbcd6004f2b84726513dede
 https://conda.anaconda.org/conda-forge/linux-64/openjdk-8.0.144-zulu8.23.0.3_1.tar.bz2#23b017946d3f586c5bb2a10876a7f8fc
-https://conda.anaconda.org/conda-forge/linux-64/perl-5.22.0.1-0.tar.bz2#c9c6e4d20445de65f67cdfa2ac76c77d
-https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2#03b1059e6919b4d0caf8ed1faedda9e7
-https://conda.anaconda.org/bioconda/linux-64/fastqc-0.11.7-pl5.22.0_2.tar.bz2#8863026ef0e247c1bfc8265d985027f5
+https://conda.anaconda.org/conda-forge/linux-64/perl-5.22.2.1-0.tar.bz2#c49f734b904cc5fe2b20c72377f20c4b
+https://conda.anaconda.org/bioconda/linux-64/fastqc-0.11.7-4.tar.bz2#46205fca94cd4ed3f5b479f2af838223
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h470a237_3.tar.bz2#5e899edc8e6e6c51c99cae43a7d20387
 https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.28-2.tar.bz2#b845f008c051becb7b576091a1674826
 https://conda.anaconda.org/conda-forge/linux-64/freetype-2.7-2.tar.bz2#bd968d8067505e080c2c7658237fbda4

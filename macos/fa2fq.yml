@@ -7,4 +7,4 @@ dependencies:
 - gettext=0.19.8.1=0
 - pigz=2.3.4=0
 - sed=4.4=1
-- zlib=1.2.11=0
+- zlib=1.2.11=h470a237_3

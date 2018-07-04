@@ -2,4 +2,4 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 @EXPLICIT
-https://conda.anaconda.org/bioconda/osx-64/raxml-8.2.10-0.tar.bz2#90b6772aa52a70a90b907f958e8bafa7
+https://conda.anaconda.org/bioconda/osx-64/raxml-8.2.10-h470a237_1.tar.bz2#5f9b1c4d2a9776699e0b5722919cdeb0

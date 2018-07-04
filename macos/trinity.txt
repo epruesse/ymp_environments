@@ -7,6 +7,6 @@ https://repo.continuum.io/pkgs/main/osx-64/libgfortran-3.0.1-h93005f0_2.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2#f303ad9e588c5f06b9b02077b57d88d5
 https://repo.anaconda.com/pkgs/free/osx-64/openjdk-8.0.121-1.tar.bz2#e227795b66c7cc28605af87f8e6486bf
 https://conda.anaconda.org/conda-forge/osx-64/perl-5.22.0.1-0.tar.bz2#45fc5fe461319570ff8f43fdf7a66530
-https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-0.tar.bz2#0dbfe15508bd5509c0fca63c55ab07b0
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h470a237_3.tar.bz2#26eb539b03211c0a3c0d4bc3e3e48fd5
 https://repo.anaconda.com/pkgs/main/osx-64/libgcc-4.8.5-hdbeacc1_10.tar.bz2#51bab34e2908c2ad838aee837f0e950e
 https://conda.anaconda.org/bioconda/osx-64/trinity-date.2011_11_26-ncurses5.9_8.tar.bz2#a039bd9cd704d3203b5757146b0c1439

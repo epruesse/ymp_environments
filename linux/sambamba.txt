@@ -2,4 +2,4 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 @EXPLICIT
-https://conda.anaconda.org/bioconda/linux-64/sambamba-0.6.6-1.tar.bz2#93441befd48909e5834ff2faf79133b8
+https://conda.anaconda.org/bioconda/linux-64/sambamba-0.6.6-2.tar.bz2#88604e5332822b1462b1ec209ab9883a

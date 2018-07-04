@@ -2,8 +2,29 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 @EXPLICIT
+https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.6-1.tar.bz2#88043f0bbe592f4c6c21e80671183f42
+https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2018.4.16-0.tar.bz2#b37df2fb78fec18f617cf0c3cad83067
+https://repo.anaconda.com/pkgs/main/linux-64/intel-openmp-2018.0.3-0.tar.bz2#364bdca356b384243cb72c7daca416be
 https://repo.continuum.io/pkgs/main/linux-64/libgcc-ng-7.2.0-hdf63c60_3.tar.bz2#944ff8bc5bbcd6004f2b84726513dede
+https://repo.continuum.io/pkgs/main/linux-64/libgfortran-ng-7.2.0-hdf63c60_3.tar.bz2#249575a07286c1500173c6afb0567825
 https://repo.anaconda.com/pkgs/main/linux-64/libstdcxx-ng-7.2.0-hdf63c60_3.tar.bz2#6b28769c1660675dfb38d1c36df7f1f2
-https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-0.tar.bz2#03b1059e6919b4d0caf8ed1faedda9e7
-https://repo.anaconda.com/pkgs/main/linux-64/libgcc-7.2.0-h69d50b8_2.tar.bz2#9962126180acc1a4fec0c6aabe7c2459
-https://conda.anaconda.org/bioconda/linux-64/diamond-0.9.21-1.tar.bz2#01ec0159572cac1afc70ecbfc46eb272
+https://conda.anaconda.org/conda-forge/linux-64/ncurses-5.9-10.tar.bz2#385305fdf1ea5dabff1fd7a1f5e1e115
+https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.7-0.tar.bz2#18f4100986fe507d416335b2be0acf79
+https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.3-0.tar.bz2#f4e0d30b3caf631be7973cba1cf6f601
+https://conda.anaconda.org/conda-forge/linux-64/icu-58.2-hfc679d8_0.tar.bz2#e17d61a82f7b047eefca832b07ed8846
+https://repo.anaconda.com/pkgs/main/linux-64/mkl-2018.0.3-1.tar.bz2#bd6da185bf168502bed822b613cda621
+https://conda.anaconda.org/conda-forge/linux-64/openssl-1.0.2o-0.tar.bz2#6cba3f01d3159bf5f6423c8bc772dea0
+https://conda.anaconda.org/conda-forge/linux-64/readline-7.0-0.tar.bz2#49feb9bb9ab65a073b0e99d6b51a5534
+https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h470a237_3.tar.bz2#5e899edc8e6e6c51c99cae43a7d20387
+https://conda.anaconda.org/conda-forge/linux-64/boost-cpp-1.66.0-1.tar.bz2#f45db851aa73829f81e479a178e00d9b
+https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.20.1-2.tar.bz2#e30426e0e2627355d55070d11908aed3
+https://conda.anaconda.org/conda-forge/linux-64/python-3.6.5-1.tar.bz2#20fd7f938b92af8cfb3c0f9bd2893c57
+https://conda.anaconda.org/conda-forge/linux-64/certifi-2018.4.16-py36_0.tar.bz2#1943915601fb8e5fca7b2a561491bf1c
+https://conda.anaconda.org/conda-forge/linux-64/setuptools-39.2.0-py36_0.tar.bz2#aac4c58d702de5325d37053c17e28feb
+https://conda.anaconda.org/conda-forge/linux-64/wheel-0.31.0-py36_0.tar.bz2#ad8d37025141ffc6fc3d1cbfd34b864c
+https://conda.anaconda.org/conda-forge/linux-64/pip-9.0.3-py36_0.tar.bz2#1ae77efe3381d3c212965807248d8a20
+https://conda.anaconda.org/conda-forge/linux-64/boost-1.66.0-py36_1.tar.bz2#c33da1c74f75649edb982095bbfeddbe
+https://conda.anaconda.org/bioconda/linux-64/diamond-0.9.22-h065a656_0.tar.bz2#3892b0243e75ff52c4408c0771db923b
+https://conda.anaconda.org/conda-forge/linux-64/mkl_fft-1.0.2-py36_0.tar.bz2#a6f808a58322f2bb6ace37e74f055b3f
+https://conda.anaconda.org/conda-forge/linux-64/mkl_random-1.0.1-py36_0.tar.bz2#8c711fdc9eb0596b54d342d84b0f7e42
+https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.14.2-py36hdbf6ddf_1.tar.bz2#85cf86362a729dd112ed31aaebee0b1b

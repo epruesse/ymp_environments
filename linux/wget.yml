@@ -6,6 +6,6 @@ channels:
 dependencies:
 - ca-certificates=2018.4.16=0
 - openssl=1.0.2o=0
-- zlib=1.2.11=0
+- zlib=1.2.11=h470a237_3
 - libgcc-ng=7.2.0=hdf63c60_3
-- wget=1.19.4=hf388c53_0
+- wget=1.19.5=h1ad7b7a_0

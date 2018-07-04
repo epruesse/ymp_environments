@@ -4,5 +4,6 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- sickle-trim=1.33=2
-- zlib=1.2.11=0
+- sickle-trim=1.33=ha92aebf_4
+- zlib=1.2.11=h470a237_3
+- libgcc-ng=7.2.0=hdf63c60_3

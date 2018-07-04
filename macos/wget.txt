@@ -3,6 +3,6 @@
 # platform: osx-64
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2018.4.16-0.tar.bz2#d2eb20e6ba2c60893b2d653c309b0514
-https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-0.tar.bz2#0dbfe15508bd5509c0fca63c55ab07b0
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h470a237_3.tar.bz2#26eb539b03211c0a3c0d4bc3e3e48fd5
 https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2o-0.tar.bz2#3257fe71afeeb36bde1a7b33a4d1a612
-https://repo.anaconda.com/pkgs/main/osx-64/wget-1.19.4-h073198b_0.tar.bz2#77d07dc57308c194f72285c01861d6d7
+https://repo.anaconda.com/pkgs/main/osx-64/wget-1.19.5-hf30b1f0_0.tar.bz2#9a000c4c8fff39a47c28ed69c7e2b05a
