@@ -164,7 +164,7 @@ https://conda.anaconda.org/conda-forge/osx-64/paramiko-2.4.1-py36_0.tar.bz2#682f
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py36_0.tar.bz2#686ac52a2df376c3bc48c500ff7618b0
 https://conda.anaconda.org/conda-forge/osx-64/s3transfer-0.1.13-py36_0.tar.bz2#087a8d722d0eec2bad96454c0dddbe42
 https://conda.anaconda.org/conda-forge/osx-64/statsmodels-0.9.0-py36_0.tar.bz2#d1bd0101c3795afa4a5dbfb2d3d2ba64
-https://conda.anaconda.org/conda-forge/noarch/boto3-1.7.49-py_0.tar.bz2#92cff5f5d94a152850ef7f60b13a6dd4
+https://conda.anaconda.org/conda-forge/noarch/boto3-1.7.50-py_0.tar.bz2#e47c377746367143e3b23539ee95948f
 https://conda.anaconda.org/conda-forge/osx-64/google-cloud-core-0.24.1-py36_0.tar.bz2#63f708599c6bdd45c990ac99130369cd
 https://conda.anaconda.org/bioconda/osx-64/pysftp-0.2.9-py36_0.tar.bz2#c3ca07fbf2b6527b4581f468e9a777e1
 https://conda.anaconda.org/conda-forge/osx-64/seaborn-0.8.1-py36_0.tar.bz2#2182152def0f4636249b544a118e4d99
