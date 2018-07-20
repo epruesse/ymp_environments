@@ -7,8 +7,8 @@ dependencies:
 - bbmap=38.06=2
 - coreutils=8.25=1
 - libdeflate=1.0=h470a237_0
-- samtools=1.8=h46bd0b3_5
-- bzip2=1.0.6=1
+- samtools=1.9=h46bd0b3_0
+- bzip2=1.0.6=h470a237_2
 - ca-certificates=2018.4.16=0
 - curl=7.60.0=0
 - krb5=1.14.6=0

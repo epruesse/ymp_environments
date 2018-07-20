@@ -7,7 +7,7 @@ https://conda.anaconda.org/bioconda/osx-64/coreutils-8.25-1.tar.bz2#156a515356f9
 https://conda.anaconda.org/conda-forge/osx-64/gettext-0.19.8.1-0.tar.bz2#0cd0310a53f311df8c24d0b81ee73dc2
 https://repo.continuum.io/pkgs/main/osx-64/libgfortran-3.0.1-h93005f0_2.tar.bz2#e3a6e2b1a232418bbac9c47866273bdd
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2#f303ad9e588c5f06b9b02077b57d88d5
-https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.7-0.tar.bz2#af0580b8c35229a5d712f81fd45cc5e9
+https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.8-0.tar.bz2#775b085c07ee0c9c7dbeacfb76d5fe84
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.3-0.tar.bz2#aa4147a23e0324d10adc7e3dcb26d919
 https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h470a237_3.tar.bz2#26eb539b03211c0a3c0d4bc3e3e48fd5
 https://repo.anaconda.com/pkgs/main/osx-64/libgcc-4.8.5-hdbeacc1_10.tar.bz2#51bab34e2908c2ad838aee837f0e950e
@@ -19,6 +19,6 @@ https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.20.1-2.tar.bz2#3f8b55826e
 https://conda.anaconda.org/conda-forge/osx-64/python-3.6.5-1.tar.bz2#7476addcf50fd41d969bd457304be4d5
 https://conda.anaconda.org/conda-forge/osx-64/certifi-2018.4.16-py36_0.tar.bz2#33ed057871ca964a60fe4103db1530c3
 https://conda.anaconda.org/bioconda/osx-64/megahit-1.1.3-py36_0.tar.bz2#db388784e146ec8f5221e9043d913615
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-39.2.0-py36_0.tar.bz2#778cfc00de4afd4b217c94c5c0a63fb0
-https://conda.anaconda.org/conda-forge/osx-64/wheel-0.31.0-py36_0.tar.bz2#530a188633a02b35748071fad39bd5f9
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-40.0.0-py36_0.tar.bz2#ecd553224be03be452f18e1ff800694e
+https://conda.anaconda.org/conda-forge/osx-64/wheel-0.31.1-py36_0.tar.bz2#3474b8fdc25d45a8a1ad149558e59694
 https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py36_0.tar.bz2#686ac52a2df376c3bc48c500ff7618b0

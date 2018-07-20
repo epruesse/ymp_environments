@@ -16,4 +16,4 @@ https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2o-0.tar.bz2#3257fe71a
 https://conda.anaconda.org/conda-forge/osx-64/pigz-2.3.4-0.tar.bz2#8f567d03531f11a8e43f8160ea549888
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.8.0-h5b517e9_2.tar.bz2#77858b372aa0fa59d4ac6230fe6bb006
 https://conda.anaconda.org/conda-forge/osx-64/curl-7.60.0-h93b3f91_0.tar.bz2#ff26fa463620d33b661b48071bd4de6d
-https://conda.anaconda.org/bioconda/osx-64/samtools-1.8-h46bd0b3_5.tar.bz2#b3e28d592e36d6f3ff75bc51f2830a52
+https://conda.anaconda.org/bioconda/osx-64/samtools-1.9-h46bd0b3_0.tar.bz2#69a0ae769662332f75e1369f115188eb
