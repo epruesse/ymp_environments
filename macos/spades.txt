@@ -2,18 +2,20 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 @EXPLICIT
+https://conda.anaconda.org/conda-forge/osx-64/bzip2-1.0.6-1.tar.bz2#69870dbec67a9a1c434828153a01e850
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2018.4.16-0.tar.bz2#d2eb20e6ba2c60893b2d653c309b0514
-https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2#f303ad9e588c5f06b9b02077b57d88d5
+https://conda.anaconda.org/bioconda/osx-64/libffi-3.2.1-1.tar.bz2#36086c3c6a4880763fa99cc7f9bdfe35
+https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.1-hfc679d8_1.tar.bz2#ccc026ea779b4f0a745cdcdf9f0ace19
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.8-0.tar.bz2#775b085c07ee0c9c7dbeacfb76d5fe84
-https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.3-0.tar.bz2#aa4147a23e0324d10adc7e3dcb26d919
+https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.4-h470a237_0.tar.bz2#ee70a3804947f55ecdb47bdf416a92d0
 https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h470a237_3.tar.bz2#26eb539b03211c0a3c0d4bc3e3e48fd5
-https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2o-0.tar.bz2#3257fe71afeeb36bde1a7b33a4d1a612
+https://conda.anaconda.org/conda-forge/osx-64/openssl-1.0.2o-h470a237_1.tar.bz2#80536de9b52dab7090325f441a6520e9
 https://conda.anaconda.org/conda-forge/osx-64/pigz-2.3.4-0.tar.bz2#8f567d03531f11a8e43f8160ea549888
-https://conda.anaconda.org/conda-forge/osx-64/readline-7.0-0.tar.bz2#4a2639ba2d3d977bf46023abd833d24a
-https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.20.1-2.tar.bz2#3f8b55826eaa6d57a547437079818c7a
-https://conda.anaconda.org/conda-forge/osx-64/python-3.6.5-1.tar.bz2#7476addcf50fd41d969bd457304be4d5
+https://conda.anaconda.org/conda-forge/osx-64/readline-7.0-haf1bffa_1.tar.bz2#09b3e7f5389a0fbed17f2d786d070f4e
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.24.0-h2f33b56_0.tar.bz2#6ceb580a1eca8ab2d6cfd4d1242f4837
+https://conda.anaconda.org/conda-forge/osx-64/python-3.6.6-h5001a0f_0.tar.bz2#774cf268e7a99dcf49cddf1d9534379a
 https://conda.anaconda.org/conda-forge/osx-64/certifi-2018.4.16-py36_0.tar.bz2#33ed057871ca964a60fe4103db1530c3
 https://conda.anaconda.org/bioconda/osx-64/spades-3.12.0-1.tar.bz2#8d4f2fccc6c8175b624bf747d779a4cf
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-40.0.0-py36_0.tar.bz2#ecd553224be03be452f18e1ff800694e
 https://conda.anaconda.org/conda-forge/osx-64/wheel-0.31.1-py36_0.tar.bz2#3474b8fdc25d45a8a1ad149558e59694
-https://conda.anaconda.org/conda-forge/osx-64/pip-9.0.3-py36_0.tar.bz2#686ac52a2df376c3bc48c500ff7618b0
+https://conda.anaconda.org/conda-forge/osx-64/pip-18.0-py36_0.tar.bz2#46695e4d10ae686793b5ad91b0a913b3

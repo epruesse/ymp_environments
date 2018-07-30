@@ -10,12 +10,12 @@ dependencies:
 - samtools=1.9=h46bd0b3_0
 - bzip2=1.0.6=1
 - ca-certificates=2018.4.16=0
-- curl=7.60.0=h93b3f91_0
+- curl=7.61.0=h93b3f91_1
 - krb5=1.14.6=0
 - libssh2=1.8.0=h5b517e9_2
 - ncurses=5.9=10
-- openssl=1.0.2o=0
+- openssl=1.0.2o=h470a237_1
 - pigz=2.3.4=0
-- xz=5.2.3=0
+- xz=5.2.4=h470a237_0
 - zlib=1.2.11=h470a237_3
 - openjdk=8.0.121=1
