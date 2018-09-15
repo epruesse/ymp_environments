@@ -93,6 +93,7 @@ https://conda.anaconda.org/conda-forge/linux-64/nose-1.3.7-py27_2.tar.bz2#308266
 https://conda.anaconda.org/conda-forge/linux-64/pandas-0.23.3-py27hf8a1672_1.tar.bz2#1005a35419d4b288abc40c1e788da145
 https://conda.anaconda.org/conda-forge/linux-64/pickleshare-0.7.4-py27_0.tar.bz2#13726a49d3f0837bd05e0d2b179323f9
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.2.0-py_1.tar.bz2#fa29be03f4d8544fc6301bc556aa8038
+https://conda.anaconda.org/bioconda/linux-64/pyqi-0.3.2-py27_1.tar.bz2#3142e02662d90f121c28b70ceef17496
 https://conda.anaconda.org/conda-forge/linux-64/tornado-5.1-py27_0.tar.bz2#1b7a79593b0afe06385665c5a0700d99
 https://conda.anaconda.org/conda-forge/linux-64/wheel-0.31.1-py27_0.tar.bz2#c711640136acf0216994f5f9be09687e
 https://conda.anaconda.org/conda-forge/linux-64/biom-format-2.1.6-py27h7eb728f_0.tar.bz2#67072418c9cde0dee18071fe4071bb8b
