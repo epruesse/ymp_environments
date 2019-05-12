@@ -2,4 +2,4 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 @EXPLICIT
-https://conda.anaconda.org/bioconda/osx-64/star-2.6.0c-1.tar.bz2#d711db58394b62a6d6884df1fc8afc41
+https://conda.anaconda.org/bioconda/osx-64/star-2.7.0f-0.tar.bz2#9ad09777a68a01e99a566836e8ce2faf

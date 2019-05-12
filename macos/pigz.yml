@@ -1,8 +1,8 @@
 name: pigz
 channels:
-- bioconda
 - conda-forge
+- bioconda
 - defaults
 dependencies:
 - pigz=2.3.4=0
-- zlib=1.2.11=h470a237_3
+- zlib=1.2.11=h1de35cc_1004

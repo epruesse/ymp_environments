@@ -2,4 +2,9 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 @EXPLICIT
-https://conda.anaconda.org/bioconda/osx-64/cd-hit-4.6.8-hfc679d8_2.tar.bz2#85007dd192bd7bb87663e481d95fcdf3
+https://conda.anaconda.org/conda-forge/osx-64/libcxxabi-8.0.0-2.tar.bz2#26cd36c97c8ee93e314b1d3fa1ce04a0
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h1de35cc_1004.tar.bz2#a675e7ae21f9b77f2afd15f78cd21b7a
+https://conda.anaconda.org/conda-forge/osx-64/libcxx-8.0.0-2.tar.bz2#d21ae0168b153ffde90c2312a10eb936
+https://conda.anaconda.org/conda-forge/osx-64/llvm-openmp-8.0.0-h770b8ee_0.tar.bz2#38e4272bff5e1e2cfe6aa32152950a2f
+https://conda.anaconda.org/conda-forge/osx-64/openmp-8.0.0-0.tar.bz2#c42c5791ff1ae905a16faca0b206cf19
+https://conda.anaconda.org/bioconda/osx-64/cd-hit-4.8.1-hd9629dc_1.tar.bz2#5a067f99b8d2b41e3b90e70e4d592542

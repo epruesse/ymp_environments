@@ -1,8 +1,8 @@
 name: raxml
 channels:
-- bioconda
 - conda-forge
+- bioconda
 - defaults
 dependencies:
-- raxml=8.2.10=h470a237_1
-- libgcc-ng=7.2.0=hdf63c60_3
+- libgcc-ng=8.2.0=hdf63c60_1
+- raxml=8.2.12=h14c3975_1

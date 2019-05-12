@@ -2,4 +2,4 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 @EXPLICIT
-https://conda.anaconda.org/bioconda/linux-64/star-2.6.0c-1.tar.bz2#afa86e13f56d11fe79fc8b41c74dbcae
+https://conda.anaconda.org/bioconda/linux-64/star-2.7.0f-0.tar.bz2#62d581206e0f6f4ee5d6e919954ce08a
