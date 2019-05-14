@@ -7,4 +7,4 @@ https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h1de35cc_1004.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-64/libcxx-8.0.0-2.tar.bz2#d21ae0168b153ffde90c2312a10eb936
 https://conda.anaconda.org/conda-forge/osx-64/llvm-openmp-8.0.0-h770b8ee_0.tar.bz2#38e4272bff5e1e2cfe6aa32152950a2f
 https://conda.anaconda.org/conda-forge/osx-64/openmp-8.0.0-0.tar.bz2#c42c5791ff1ae905a16faca0b206cf19
-https://conda.anaconda.org/bioconda/osx-64/cd-hit-4.8.1-hd9629dc_1.tar.bz2#0c6f3545354309f6dc2cdd43d639580f
+https://conda.anaconda.org/bioconda/osx-64/cd-hit-4.8.1-hd9629dc_0.tar.bz2#0c6f3545354309f6dc2cdd43d639580f
