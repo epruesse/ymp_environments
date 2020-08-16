@@ -4,4 +4,4 @@ channels:
 - bioconda
 - defaults
 dependencies:
-- prodigal=2.6.3=1
+- prodigal=2.6.3=h01d97ff_2

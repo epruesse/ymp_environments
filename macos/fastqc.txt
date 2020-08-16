@@ -2,17 +2,16 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 @EXPLICIT
-https://repo.anaconda.com/pkgs/main/noarch/font-ttf-dejavu-sans-mono-2.37-h6964260_0.tar.bz2#360b9da9c7b19f853ad38181a4aa9452
-https://conda.anaconda.org/conda-forge/osx-64/libcxxabi-8.0.0-2.tar.bz2#26cd36c97c8ee93e314b1d3fa1ce04a0
-https://conda.anaconda.org/conda-forge/osx-64/libiconv-1.15-h01d97ff_1005.tar.bz2#ec331659b7d7ec6565a54bf1ca65ac82
+https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2#0c96522c6bdaed4b1566d11387caaf45
+https://conda.anaconda.org/conda-forge/osx-64/libcxx-10.0.1-h5f48129_0.tar.bz2#abc0f77f31d9e69bdcf2c550058da337
+https://conda.anaconda.org/conda-forge/osx-64/libiconv-1.15-h0b31af3_1006.tar.bz2#523911900c91d32697f4cb463a86e19d
 https://conda.anaconda.org/conda-forge/osx-64/perl-5.26.2-haec8ef5_1006.tar.bz2#7c0ced1da3e20d98b1045f3e945d3d1c
-https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.4-h1de35cc_1001.tar.bz2#dc8b7a1b9693da71d74823233757c527
-https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h1de35cc_1004.tar.bz2#a675e7ae21f9b77f2afd15f78cd21b7a
-https://conda.anaconda.org/conda-forge/osx-64/libcxx-8.0.0-2.tar.bz2#d21ae0168b153ffde90c2312a10eb936
-https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.28-2.tar.bz2#ead729d3da445eb6343970c8ebfcdad6
-https://conda.anaconda.org/conda-forge/osx-64/openjdk-11.0.1-h01d97ff_1016.tar.bz2#92386b19f8e7d8ab80f40152b2148f60
-https://conda.anaconda.org/conda-forge/osx-64/freetype-2.7-2.tar.bz2#077bc0debef9e3a089fdb9ac868b087c
-https://conda.anaconda.org/conda-forge/osx-64/icu-58.2-h0a44026_1000.tar.bz2#2556f93480a4301688bd4f0e24310e99
-https://conda.anaconda.org/conda-forge/osx-64/libxml2-2.9.9-hd80cff7_0.tar.bz2#4ba5dae905548e26274ccc62a5beea2c
-https://conda.anaconda.org/conda-forge/osx-64/fontconfig-2.12.1-6.tar.bz2#ac65e66caffa1c3f65f12885130b3373
-https://conda.anaconda.org/bioconda/osx-64/fastqc-0.11.8-1.tar.bz2#d6097e58b5481a5321e183757f71f691
+https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.5-haf1e3a3_1.tar.bz2#41116deb499e9bc58048c297d6403ce6
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-1007.tar.bz2#45baf062af78d948c4eaf5a5dba0b2b5
+https://conda.anaconda.org/conda-forge/osx-64/icu-67.1-h4a8c4bd_0.tar.bz2#c77dccce11c08d2e260c46102672a82d
+https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.37-hb0a8c7a_2.tar.bz2#152469e831f8558f76c63e841b934f87
+https://conda.anaconda.org/conda-forge/osx-64/openjdk-11.0.8-hb0a8c7a_0.tar.bz2#da63ddbd62a0af0fea1e7d3cfc6d5696
+https://conda.anaconda.org/conda-forge/osx-64/freetype-2.10.2-h8da9a1a_0.tar.bz2#17f160c42d580a14d96e9676f94b0c15
+https://conda.anaconda.org/conda-forge/osx-64/libxml2-2.9.10-h7fdee97_2.tar.bz2#0e85f302f80f137d2a9783a0e6f9a154
+https://conda.anaconda.org/conda-forge/osx-64/fontconfig-2.13.1-h79c0d67_1002.tar.bz2#656ffec2510f5dd41b84493bbf527ce7
+https://conda.anaconda.org/bioconda/noarch/fastqc-0.11.9-0.tar.bz2#4728751963f861f7d18a824e585a384c
