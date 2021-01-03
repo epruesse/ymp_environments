@@ -4,4 +4,4 @@ channels:
 - bioconda
 - defaults
 dependencies:
-- star=2.7.5b=0
+- star=2.7.7a=0

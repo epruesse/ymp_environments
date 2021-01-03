@@ -5,7 +5,7 @@ channels:
 - defaults
 dependencies:
 - cd-hit=4.8.1=hfbae3c0_3
-- libcxx=10.0.1=h5f48129_0
+- libcxx=11.0.0=h4c3b8ed_1
 - llvm-openmp=8.0.1=h770b8ee_0
 - openmp=8.0.1=0
-- zlib=1.2.11=1007
+- zlib=1.2.11=h7795811_1010

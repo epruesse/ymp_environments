@@ -4,7 +4,7 @@ channels:
 - bioconda
 - defaults
 dependencies:
-- fastq-multx=1.4.0=ha1b3eb9_0
-- libcxx=10.0.1=h5f48129_0
+- fastq-multx=1.4.2=ha1b3eb9_0
+- libcxx=11.0.0=h4c3b8ed_1
 - pigz=2.3.4=hbbe82c9_1
-- zlib=1.2.11=1007
+- zlib=1.2.11=h7795811_1010

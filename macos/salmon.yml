@@ -1,0 +1,13 @@
+name: salmon
+channels:
+- conda-forge
+- bioconda
+- defaults
+dependencies:
+- bzip2=1.0.8=hc929b4f_4
+- icu=64.2=h6de7cb9_1
+- jemalloc=5.2.1=hb1e8313_4
+- libcxx=11.0.0=h4c3b8ed_1
+- salmon=1.4.0=hb70dc8d_0
+- tbb=2020.2=h926bf3e_1
+- zlib=1.2.11=h7795811_1010
