@@ -4,15 +4,15 @@ channels:
 - bioconda
 - defaults
 dependencies:
-- hdf5=1.10.5=nompi_h500d6d3_1113
+- hdf5=1.10.5=nompi_h500d6d3_1114
 - icu=68.1=h74dc148_0
-- libcxx=11.0.0=h4c3b8ed_1
-- libgfortran=5.0.0=h6c81a4c_15
-- libgfortran5=9.3.0=h6c81a4c_15
+- libcxx=11.1.0=habf9029_0
+- libgfortran=5.0.0=9_3_0_h6c81a4c_20
+- libgfortran5=9.3.0=h6c81a4c_20
 - libiconv=1.16=haf1e3a3_0
 - libxml2=2.9.10=h802ca4f_3
-- llvm-openmp=11.0.0=h73239a0_1
-- ncbi-ngs-sdk=2.10.9=hc0cdd1b_0
+- llvm-openmp=11.1.0=hda6cdc1_0
+- ncbi-ngs-sdk=2.10.9=h247ad82_1
 - perl=5.26.2=hbcb3906_1008
 - perl-app-cpanminus=1.7044=pl526_1
 - perl-business-isbn=3.004=pl526_0
@@ -33,7 +33,7 @@ dependencies:
 - perl-xml-sax=1.02=pl526_0
 - perl-xml-sax-base=1.09=pl526_0
 - perl-xsloader=0.24=pl526_0
-- pigz=2.3.4=hbbe82c9_1
+- pigz=2.6=h5dbffcc_0
 - sra-tools=2.10.1=pl526h9f37e31_0
 - xz=5.2.5=haf1e3a3_1
 - zlib=1.2.11=h7795811_1010

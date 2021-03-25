@@ -19,5 +19,5 @@ https://conda.anaconda.org/conda-forge/osx-64/krb5-1.17.2-h60d9502_0.tar.bz2#abf
 https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.43.0-h07e645a_0.tar.bz2#b4a9c405d47f3b120ed6cf86cc8a13aa
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.9.0-h52ee1ee_6.tar.bz2#42cebefd1fd127d1180e3df004a413b7
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.75.0-h8ef9fac_0.tar.bz2#fc1b048751c16b877364f9ac1b4a1e4b
-https://conda.anaconda.org/bioconda/osx-64/htslib-1.11-h422799e_2.tar.bz2#282664eb322939c749ea2dc674493937
-https://conda.anaconda.org/bioconda/osx-64/samtools-1.11-h725deca_0.tar.bz2#d6607f54867ecf644fc424289ba26930
+https://conda.anaconda.org/bioconda/osx-64/htslib-1.12-h422799e_0.tar.bz2#68cf90932099a79c2e436f805cc9e1a4
+https://conda.anaconda.org/bioconda/osx-64/samtools-1.12-h5d3c5f0_0.tar.bz2#2bda7302d1fdaa0467dc0f4339f77a82
