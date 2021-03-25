@@ -3,7 +3,7 @@
 # platform: linux-64
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
-https://conda.anaconda.org/conda-forge/linux-64/libgomp-9.2.0-h24d8f2e_2.tar.bz2#7c6154111414b737f850a5d02b9c9380
-https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-0_gnu.tar.bz2#3053d142226093f417abe884f2ab6620
-https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-9.2.0-h24d8f2e_2.tar.bz2#51817a9a1e6064d0a065a93c2f4986f5
-https://conda.anaconda.org/bioconda/linux-64/raxml-8.2.12-h516909a_2.tar.bz2#88daa254ffd3e01d09aa7120e1846b26
+https://conda.anaconda.org/conda-forge/linux-64/libgomp-9.3.0-h2828fa1_18.tar.bz2#fc7a2a7e6a741c8afdd764715ac7039d
+https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-1_gnu.tar.bz2#561e277319a41d4f24f5c05a9ef63c04
+https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-9.3.0-h2828fa1_18.tar.bz2#5a9490c49a3505a6d19bda012cde6ad3
+https://conda.anaconda.org/bioconda/linux-64/raxml-8.2.12-h779adbc_3.tar.bz2#91eb90712fc90103a79abd08ff65d054

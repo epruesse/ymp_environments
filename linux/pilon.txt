@@ -40,6 +40,7 @@ https://conda.anaconda.org/conda-forge/linux-64/gettext-0.19.8.1-h0b5b191_1005.t
 https://conda.anaconda.org/conda-forge/linux-64/libpng-1.6.37-h21135ba_2.tar.bz2#b6acf807307d033d4b7e758b4f44b036
 https://conda.anaconda.org/conda-forge/linux-64/libxcb-1.13-h7f98852_1003.tar.bz2#a9371e9e40aded194dcba1447606c9a1
 https://conda.anaconda.org/conda-forge/linux-64/libxml2-2.9.10-h72842e0_3.tar.bz2#5ed2c4742d5f1141783f484fe8974ccf
+https://conda.anaconda.org/conda-forge/linux-64/pigz-2.6-h27826a3_0.tar.bz2#677798489006b14291e8617223e34348
 https://conda.anaconda.org/conda-forge/linux-64/readline-8.0-he28a2e2_2.tar.bz2#4d0ae8d473f863696088f76800ef9d38
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.10-h21135ba_1.tar.bz2#c647f70aa7e3d4cc4e029cc1c9a99953
 https://conda.anaconda.org/conda-forge/linux-64/xorg-fixesproto-5.0-h14c3975_1002.tar.bz2#fea3177a42ebe15b15a3e877d0088497
@@ -65,5 +66,5 @@ https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-2.8.0-h83ec7ef_1.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/xorg-libxtst-1.2.3-h516909a_1002.tar.bz2#2676c5d475fa32bc25aaa5d677ce665b
 https://conda.anaconda.org/conda-forge/linux-64/openjdk-11.0.9.1-h5cc2fde_1.tar.bz2#173813c547d6b3652fbf1db24cdc0c1b
 https://conda.anaconda.org/conda-forge/linux-64/setuptools-49.6.0-py39hf3d152e_3.tar.bz2#4397280abb201d7adff59099e12e7ddd
+https://conda.anaconda.org/bioconda/noarch/pilon-1.23-hdfd78af_3.tar.bz2#c4df8c1dde3da1a80217955e94c51e2b
 https://conda.anaconda.org/conda-forge/noarch/pip-21.0.1-pyhd8ed1ab_0.tar.bz2#849477e10d78cbc283c78fd53bfbb567
-https://conda.anaconda.org/bioconda/noarch/trimmomatic-0.39-1.tar.bz2#4f50038e17e15fc5c1128971060086d7

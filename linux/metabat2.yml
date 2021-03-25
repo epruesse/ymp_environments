@@ -1,5 +1,6 @@
 name: metabat2
 channels:
+- <unknown>
 - conda-forge
 - bioconda
 - defaults

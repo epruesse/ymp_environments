@@ -1,5 +1,6 @@
 name: megahit
 channels:
+- <unknown>
 - conda-forge
 - bioconda
 - defaults

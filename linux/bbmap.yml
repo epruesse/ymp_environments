@@ -1,5 +1,6 @@
 name: bbmap
 channels:
+- <unknown>
 - conda-forge
 - bioconda
 - defaults

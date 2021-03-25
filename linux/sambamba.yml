@@ -1,5 +1,6 @@
 name: sambamba
 channels:
+- <unknown>
 - conda-forge
 - bioconda
 - defaults
